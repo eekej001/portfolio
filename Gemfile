@@ -1,21 +1,46 @@
 source 'https://rubygems.org'
+ruby '2.3.1'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7'
-# Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'certified'
+gem 'faraday'
+gem 'dropbox-sdk','~> 1.6.4'
+# Use mysql as the database for Active Record
+
+gem 'rubyzip', '= 1.0.0'
+gem 'axlsx', '= 2.0.1'
+gem 'axlsx_rails'
+gem 'will_paginate'
+gem 'figaro'
+gem 'bootstrap-datepicker-rails'
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'sass-rails', '>= 3.2'
+gem 'delayed_job_active_record'
+gem 'paypal-sdk-rest'
+
+group :production do
+  #gem 'pg'
+  gem 'mysql2', '>= 0.3.13', '< 0.5'
+  gem 'rails_12factor'
+end
+
+group :development do
+  gem 'mysql2', '>= 0.3.13', '< 0.5'
+end  
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0'
+#gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '>= 1.3.0'
+#gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
-gem 'coffee-rails', '~> 4.1.0'
+#gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'awesome_print'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
