@@ -26,7 +26,8 @@ default: &default
   pool: 5
   username: root
   password: rubyroot
-  host: localhost
+  #host: localhost
+  host: 127.0.0.1
 
 
 
