@@ -26,24 +26,25 @@
 
 #work {
 	background-color: grey;
-	margin-top: 30px;
-	margin-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 #me {
 	height: 400px;
+	background-color: blue;
 }
 .sub-footer {
 	background-color: green;
 	color: white;
 	height: 300px;
-	margin-top: 30px;
+	padding-top: 30px;
 }
 
 footer {
 	background-color: black;
 	height: 300px;
-	margin-top: 30px;
+	padding-top: 30px;
 }
 
 footer p {
@@ -91,8 +92,8 @@ p {
 }
 
 .hi {
-	margin-top: 30px;
-	margin-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 /*
 .vertical-align {
