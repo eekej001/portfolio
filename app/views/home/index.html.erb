@@ -19,10 +19,10 @@
 	    <a href="#"><%= image_tag("logo.png", :size => "50x50", :title => "Logo", :alt => "Logo") %></a>
 
 	    <h1>Hi, I'm Ebenezer. I build websites and web applications.</h1>
-	    <div id="learn-links col-sm-6 col-sm-offset-4">
-		    <div class="learn-more center-block"><a href="#contact">Why Yes, I Am Available for Hire!</a></div>
+	    <div id="learn-links">
+		    <div class="learn-more col-sm-6 col-sm-offset-4"><a href="#contact">Why Yes, I Am Available for Hire!</a></div>
 
-		    <div class="learn-more center-block"><a href="#expertise">Learn more about what I do<i class="fa fa-chevron-down"></i></a></div>
+		    <div class="learn-more col-sm-6 col-sm-offset-4"><a href="#expertise">Learn more about what I do<i class="fa fa-chevron-down"></i></a></div>
 	    </div>
 	</div><!--container/intro-->
 
@@ -30,11 +30,11 @@
 	<!--EXPERTISE SECTION-->
 	<section id="me">
 	  <div class="container">
-	        <div class="row">
+	        <div class="row vertical-align">
 	           <h1>My Expertise</h1>
 	           <p class="col-sm-6 col-sm-offset-4">I have experience in both front-end and back-end development.</p>
 	        </div> <!--row-1-->
-	        <div class="row">
+	        <div class="row vertical-align">
 	              <div class="one-third column col-sm-4">
 	                   <div class="exp-block">
 	                       <i class="fa fa-diamond yellow"></i>
@@ -69,28 +69,28 @@
 
 	<section id="work">
 	     <div class="container">
-	          <div class="row">
+	          <div class="row vertical-align">
 	             <div class="section">
 	                 <h1>My Work</h1>
 	                 <p class="col-sm-6 col-sm-offset-4">Here are some of the applications that I've worked on.</p>
 	             </div>
 	          </div><!--row-->
-	          <div class="row">
+	          <div class="row vertical-align">
 	                <div class="one-third column col-sm-4">
 	                     <div class="work-block">
-	                         <a href="https://www.digital-stream.herokuapp.com" target="_blank"><img src="digital-stream.png"/></a>
+	                         <a href="https://www.digital-stream.herokuapp.com" target="_blank"><%= image_tag("w1.jpg", :size => "100x00", :title => "Digital Stream", :alt => "Digital Stream") %></a>
 	                         <p><a href="https://www.digital-stream.herokuapp.com" target="_blank">Digital Stream</a> is a Ruby on Rails based application to allow for the streaming of digital novels.</p>
 	                     </div><!--work-block-1-->
 	                </div><!--column-1-->
 	                <div class="one-third column col-sm-4">
 	                     <div class="work-block">
-	                         <a href="https://www.royalty-reports.herokuapp.com" target="_blank"><img src="royalty-reports.png"/></a>
+	                         <a href="https://www.royalty-reports.herokuapp.com" target="_blank"><%= image_tag("w2.jpg", :size => "100x00", :title => "Royalty Reports", :alt => "Royalty Reports") %></a>
 	                         <p><a href="https://www.royalty-reports.herokuapp.com" target="_blank">Royalty Reports</a> is a Ruby on Rails based application that retrieves Shopify JSON data by way of webhooks, stores that data in a remote database, and automatically processes that data into reports. There is also a responsive UI to allow for custom report generation.</p>
 	                     </div><!--work-block-2-->
 	                </div><!--column-2-->
 	                <div class="one-third column col-sm-4">
 	                     <div class="work-block">
-	                         <a href="https://www.superhero-database.herokuapp.com" target="_blank"><img src="superhero-database.png"/></a>
+	                         <a href="https://www.superhero-database.herokuapp.com" target="_blank"><%= image_tag("w3.jpg", :size => "100x00", :title => "Superhero Database", :alt => "Superhero Database") %></a>
 	                         <p><a href="https://superhero-database.herokuapp.com" target="_blank">Superhero Database</a> is a website built with Angular JS that features animations and asynchronous page filtering.</p>
 	                     </div><!--work-block-3-->
 	                </div><!--column-3-->
@@ -104,9 +104,9 @@
 
 	<section class="sub-footer">
 	    <div class="container">
-	        <div class="row center-block">
+	        <div class="row vertical-align">
 	           <p class="col-sm-4 col-sm-offset-5">Want to work together?</p>
-	           <p class="col-sm-6 col-sm-offset-4">I'm currently accepting new projects.  If you're interested in chatting, contact me at eekej001@gmail.com</p>
+	           <p class="col-sm-8 col-sm-offset-3">I'm currently accepting new projects.  If you're interested in chatting, contact me at eekej001@gmail.com</p>
 	        </div>
 	    </div><!--container-->
 
@@ -115,7 +115,7 @@
 
 	<footer>
 	    <div class="container">
-	         <div class="row center-block footer-block">
+	         <div class="row vertical-align footer-block">
 	             <a href="http://portfolio-eekej.herokuapp.com/"><%= image_tag("logo.png", :size => "50x50", :title => "Logo", :alt => "Logo") %></a>
 	             <p class="col-sm-4 col-sm-offset-5">Made by Ebenezer Ekejiuba &copy; 2018.</p>
 	             <div class="social-links col-sm-2 col-sm-offset-5">
