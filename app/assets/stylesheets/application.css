@@ -47,3 +47,7 @@ p {
 div#learn-links div, div p {
 	display: block;
 }
+
+.title-sub {
+	font-size: 14px;
+}
