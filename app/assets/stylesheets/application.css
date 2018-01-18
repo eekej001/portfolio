@@ -13,3 +13,28 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+	text-align: center;
+}
+
+
+.intro {
+	background-image: url("office.jpg");
+}
+
+.work {
+	background-color: grey;
+}
+
+.sub-footer {
+	background-color: green;
+}
+
+footer {
+	background-color: black;
+}
+
+footer > p {
+	color: white;
+}

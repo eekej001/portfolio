@@ -1,13 +1,131 @@
-<head>
-  <%= stylesheet_link_tag  "application", :media => "all" %>
+<html>
 
 
-<%= javascript_include_tag  "jquery.slim.min", "tether.min", "bootstrap.min" %>
+	<head>
+	  <%= stylesheet_link_tag  "application", :media => "all" %>
 
 
-</head>
+	<%= javascript_include_tag  "jquery.slim.min", "tether.min", "bootstrap.min" %>
+
+
+	</head>
 
 
 
 
-<h1>The Portfolio of Ben</h1>
+	<!--INTRO SECTION-->
+	<div class="intro">
+	    <a href="#"><img src="logo.png"/></a>
+
+	    <p>Hi, I'm Ben. I build websites and web applications.</p>
+	    <div class="learn-more"><a href="#contact">Why Yes, I Am Available for Hire!</a></div>
+
+	    <div class="learn-more"><a href="#expertise">Learn more about what I do<i class="fa fa-chevron-down"></i></a></div>
+	</div><!--intro-->
+
+
+	<!--EXPERTISE SECTION-->
+	<section id="me">
+	  <div class="container">
+	        <div class="row">
+	           <h1>My Expertise</h1>
+	           <p>I have experience in both front-end and back-end development.</p>
+	        </div> <!--row-1-->
+	        <div class="row">
+	              <div class="one-third column">
+	                   <div class="exp-block">
+	                       <i class="fa fa-diamond yellow"></i>
+	                       <h4>Ideas</h4>
+	                       <p>I work with my clients to make sure that designs and features are as efficiently implemented as possible</p>
+	                   </div><!--exp-block-1-->
+	              </div><!--column-1-->
+
+	              <div class="one-third column">
+	                   <div class="exp-block">
+	                       <i class="fa fa-magic yellow"></i>
+	                       <h4>UI/UX</h4>
+	                       <p>I sketch rough drafts focusing on intuitive UI.</p>
+	                   </div><!--exp-block-2-->
+	              </div><!--column-2-->
+
+	              <div class="one-third column">
+	                   <div class="exp-block">
+	                       <i class="fa fa-code yellow"></i>
+	                       <h4>Code</h4>
+	                       <p>I design with HTML(5), CSS(3) and JavaScript. I like to code from scratch, but I can work with front-end frameworks like Bootsrap too. I am also proficient with Ruby on Rails.</p>
+	                   </div><!--exp-block-3-->
+	              </div><!--column-3-->
+
+
+	        </div><!--row-2-->
+
+	  </div><!--container-->
+
+	</section>
+
+
+	<section id="work">
+	     <div class="container">
+	          <div class="row">
+	             <div class="section">
+	                 <p>My Work</p>
+	                 <p>Here are some of the applications that I've worked on.</p>
+	             </div>
+	          </div><!--row-->
+	          <div class="row">
+	                <div class="one-third column">
+	                     <div class="work-block">
+	                         <a href="https://www.digital-stream.herokuapp.com" target="_blank"><img src="digital-stream.png"/></a>
+	                         <p><a href="https://www.digital-stream.herokuapp.com" target="_blank">Digital Stream</a> is a Ruby on Rails based application to allow for the streaming of digital novels.</p>
+	                     </div><!--work-block-1-->
+	                </div><!--column-1-->
+	                <div class="one-third column">
+	                     <div class="work-block">
+	                         <a href="https://www.royalty-reports.herokuapp.com" target="_blank"><img src="royalty-reports.png"/></a>
+	                         <p><a href="https://www.royalty-reports.herokuapp.com" target="_blank">Royalty Reports</a> is a Ruby on Rails based application that retrieves Shopify JSON data by way of webhooks, stores that data in a remote database, and automatically processes that data into reports. There is also a responsive UI to allow for custom report generation.</p>
+	                     </div><!--work-block-2-->
+	                </div><!--column-2-->
+	                <div class="one-third column">
+	                     <div class="work-block">
+	                         <a href="https://www.superhero-database.herokuapp.com" target="_blank"><img src="superhero-database.png"/></a>
+	                         <p><a href="https://superhero-database.herokuapp.com" target="_blank">Superhero Database</a> is a website built with Angular JS that features animations and asynchronous page filtering.</p>
+	                     </div><!--work-block-3-->
+	                </div><!--column-3-->
+
+	          </div><!--row-->
+
+
+	     </div><!--container-->
+
+	</section>
+
+	<section class="sub-footer">
+	    <div class="container">
+	        <div class="row">
+	           <p>Want to work together?</p>
+	           <p>I'm currently accepting new projects.  If you're interested in chatting, contact me at eekej001@gmail.com</p>
+	        </div>
+	    </div><!--container-->
+
+
+	</section>
+
+	<footer>
+	    <div class="container">
+	         <div class="footer-block">
+	             <a href="http://portfolio-eekej.herokuapp.com/"><img src="logo.png"/></a>
+	             <p>Made by Ebenezer Ekejiuba &copy; 2017.</p>
+	             <div class="social-links">
+	                <a href="https://github.com/eekej001" target="_blank"><i class="fa fa-github"></i></a>
+
+	             </div><!--social-links-->
+
+	         </div><!--footer-block-->
+	    </div><!--container-->
+
+	</footer>
+
+</html>
+
+
+
