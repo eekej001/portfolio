@@ -20,7 +20,7 @@
 
 
 .intro {
-	background: url("/assets/office.jpg");
+	background: url("office.jpg");
 	height: 400px;
 }
 
