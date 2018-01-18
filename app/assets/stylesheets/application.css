@@ -67,6 +67,14 @@ img {
 	display: block;
 }
 
+.learn-more a {
+	font-size: 32px;
+}
+
+p {
+	font-size: 20px;
+}
+
 /*
 .vertical-align {
 	display: flex;
