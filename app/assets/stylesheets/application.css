@@ -20,7 +20,8 @@
 
 
 .intro {
-	background-image: url("/assets/office.jpg");
+/*	background-image: url("/assets/office.jpg"); */
+	background: image-url("office.jpg");
 }
 
 .work {
