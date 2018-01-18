@@ -24,8 +24,10 @@
 	height: 400px;
 }
 
-.work {
+#work {
 	background-color: grey;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 #me {
@@ -35,11 +37,13 @@
 	background-color: green;
 	color: white;
 	height: 300px;
+	margin-top: 30px;
 }
 
 footer {
 	background-color: black;
 	height: 300px;
+	margin-top: 30px;
 }
 
 footer p {
@@ -84,6 +88,11 @@ p {
 .work-image {
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+.hi {
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 /*
 .vertical-align {
