@@ -43,3 +43,7 @@ p {
     display: inline-block;
     float: none;
 }
+
+div#learn-links div, div p {
+	display: block;
+}

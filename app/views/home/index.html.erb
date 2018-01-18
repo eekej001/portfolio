@@ -16,12 +16,14 @@
 
 	<!--INTRO SECTION-->
 	<div class="container intro">
-	    <a href="#"><%= image_tag("logo.png", :size => "50x50", :title => "Logo", :alt => "Logo") %></a>
+	    <a href="#"><%= image_tag("logo.png", :size => "50x50", :title => "Logo", :alt => "Logo", :class => "col-sm-2 col-sm-offset-5") %></a>
 
 	    <h1>Hi, I'm Ebenezer. I build websites and web applications.</h1>
-	    <div class="learn-more center-block"><a href="#contact">Why Yes, I Am Available for Hire!</a></div>
+	    <div id="learn-links">
+		    <div class="learn-more center-block"><a href="#contact">Why Yes, I Am Available for Hire!</a></div>
 
-	    <div class="learn-more center-block"><a href="#expertise">Learn more about what I do<i class="fa fa-chevron-down"></i></a></div>
+		    <div class="learn-more center-block"><a href="#expertise">Learn more about what I do<i class="fa fa-chevron-down"></i></a></div>
+	    </div>
 	</div><!--container/intro-->
 
 
@@ -30,13 +32,13 @@
 	  <div class="container">
 	        <div class="row">
 	           <h1>My Expertise</h1>
-	           <p class="center-block">I have experience in both front-end and back-end development.</p>
+	           <p class="col-sm-6 col-sm-offset-4">I have experience in both front-end and back-end development.</p>
 	        </div> <!--row-1-->
 	        <div class="row">
 	              <div class="one-third column col-sm-4">
 	                   <div class="exp-block">
 	                       <i class="fa fa-diamond yellow"></i>
-	                       <h4>Ideas</h4>
+	                       <h4 class="col-sm-2 col-sm-offset-5">Ideas</h4>
 	                       <p>I work with my clients to make sure that designs and features are as efficiently implemented as possible</p>
 	                   </div><!--exp-block-1-->
 	              </div><!--column-1-->
@@ -44,7 +46,7 @@
 	              <div class="one-third column col-sm-4">
 	                   <div class="exp-block">
 	                       <i class="fa fa-magic yellow"></i>
-	                       <h4>UI/UX</h4>
+	                       <h4 class="col-sm-2 col-sm-offset-5">UI/UX</h4>
 	                       <p>I sketch rough drafts focusing on intuitive UI.</p>
 	                   </div><!--exp-block-2-->
 	              </div><!--column-2-->
@@ -52,7 +54,7 @@
 	              <div class="one-third column col-sm-4">
 	                   <div class="exp-block">
 	                       <i class="fa fa-code yellow"></i>
-	                       <h4>Code</h4>
+	                       <h4 class="col-sm-2 col-sm-offset-5">Code</h4>
 	                       <p>I design with HTML(5), CSS(3) and JavaScript. I like to code from scratch, but I can work with front-end frameworks like Bootsrap too. I am also proficient with Ruby on Rails.</p>
 	                   </div><!--exp-block-3-->
 	              </div><!--column-3-->
@@ -70,7 +72,7 @@
 	          <div class="row">
 	             <div class="section">
 	                 <h1>My Work</h1>
-	                 <p class="center-block">Here are some of the applications that I've worked on.</p>
+	                 <p class="col-sm-6 col-sm-offset-5">Here are some of the applications that I've worked on.</p>
 	             </div>
 	          </div><!--row-->
 	          <div class="row">
@@ -103,8 +105,8 @@
 	<section class="sub-footer">
 	    <div class="container">
 	        <div class="row center-block">
-	           <p>Want to work together?</p>
-	           <p>I'm currently accepting new projects.  If you're interested in chatting, contact me at eekej001@gmail.com</p>
+	           <p class="col-sm-4 col-sm-offset-5">Want to work together?</p>
+	           <p class="col-sm-6 col-sm-offset-4">I'm currently accepting new projects.  If you're interested in chatting, contact me at eekej001@gmail.com</p>
 	        </div>
 	    </div><!--container-->
 
@@ -114,9 +116,9 @@
 	<footer>
 	    <div class="container">
 	         <div class="row center-block footer-block">
-	             <a href="http://portfolio-eekej.herokuapp.com/"><%= image_tag("logo.png", :size => "50x50", :title => "Logo", :alt => "Logo") %></a>
-	             <p class="mx-auto">Made by Ebenezer Ekejiuba &copy; 2018.</p>
-	             <div class="social-links">
+	             <a href="http://portfolio-eekej.herokuapp.com/"><%= image_tag("logo.png", :size => "50x50", :title => "Logo", :alt => "Logo", :class => "col-sm-2 col-sm-offset-5") %></a>
+	             <p class="col-sm-4 col-sm-offset-5">Made by Ebenezer Ekejiuba &copy; 2018.</p>
+	             <div class="social-links col-sm-2 col-sm-offset-5">
 	                <a href="https://github.com/eekej001" target="_blank"><i class="fa fa-github"></i></a>
 
 	             </div><!--social-links-->
