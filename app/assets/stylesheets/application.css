@@ -20,7 +20,7 @@
 
 
 .intro {
-	background-image: url("office.jpg");
+	background-image: url("/assets/office.jpg");
 }
 
 .work {
@@ -41,4 +41,5 @@ footer p {
 
 p {
     display: inline-block;
+    float: none;
 }
