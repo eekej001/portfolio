@@ -30,7 +30,7 @@
 }
 
 #work {
-	background-color: grey;
+	background-color: #eee;
 	padding-top: 80px;
 	padding-bottom: 80px;
 }
@@ -66,11 +66,18 @@ div#learn-links div, div p {
 	display: block;
 }
 
+.primary-logo {
+	margin-top: 50px;
+}
+
 .title-sub {
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: bold;
 }
 
+.section-title {
+	font-weight: bold;
+}
 
 img {
 	margin-left: auto;
@@ -80,6 +87,7 @@ img {
 
 .learn-more a {
 	font-size: 32px;
+	color: rgba(102,179,255,0.7);
 }
 
 p {
@@ -102,7 +110,7 @@ p {
 }
 
 .hi {
-	color: rgba(255,255,255,0.7);
+	color: rgba(255,255,255,0.9);
 	padding-top: 30px;
 	padding-bottom: 40px;
 }
@@ -128,12 +136,21 @@ p {
 }
 
 .exp-stat {
-	margin-top: 10px;
-	margin-bottom: 30px;
+	margin-top: 25px;
+	margin-bottom: 60px;
 }
 
 .text-detail {
 	color: #93a4aa;
+}
+
+.bottom-logo {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.social-links {
+	margin-top: 30px;
 }
 
 /*
