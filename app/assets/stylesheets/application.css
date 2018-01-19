@@ -117,6 +117,10 @@ footer i {
 	color: #FED766;
 }
 
+* {
+	text-align: center;
+}
+
 /*
 .vertical-align {
 	display: flex;
