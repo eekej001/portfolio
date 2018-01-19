@@ -108,6 +108,10 @@ p {
 	font-size: 5em;
 }
 
+footer i {
+	font-size: 3em;
+}
+
 .yellow {
 	color: #FED766;
 }
