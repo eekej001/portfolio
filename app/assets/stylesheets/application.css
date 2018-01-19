@@ -42,7 +42,7 @@
 	padding-bottom: 80px;
 }
 .sub-footer {
-	background-color: #99ff99;
+	background-color: #00b300;
 	color: #252a30;
 	height: 300px;
 	padding-top: 80px;
@@ -116,13 +116,13 @@ p {
 }
 
 .hi {
-	color: rgba(51,51,51,0.9);
+	color: rgba(242,242,242,0.9);
 	padding-top: 30px;
 	padding-bottom: 40px;
 }
 
 .email {
-	color: blue;
+	color: #5EA4F7;
 }
 
 #me i {
@@ -155,7 +155,7 @@ p {
 }
 
 .social-links {
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 /*
