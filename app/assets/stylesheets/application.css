@@ -103,6 +103,15 @@ p {
 .email {
 	color: blue;
 }
+
+#me i {
+	font-size: 5em;
+}
+
+.yellow {
+	color: #FED766;
+}
+
 /*
 .vertical-align {
 	display: flex;
