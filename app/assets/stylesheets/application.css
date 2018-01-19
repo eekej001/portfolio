@@ -82,8 +82,12 @@ p {
 
 .boldBlk {
 	font-weight: bold;
-	font-size: 24px;
+	font-size: 35px;
 	color: black;
+}
+
+.accepting {
+	font-size: 25px;
 }
 
 .work-image {
@@ -94,6 +98,10 @@ p {
 .hi {
 	padding-top: 30px;
 	padding-bottom: 30px;
+}
+
+.email {
+	color: blue;
 }
 /*
 .vertical-align {
