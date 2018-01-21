@@ -28,6 +28,7 @@
 	height: 100vh;
 	width: 100%;
 	position: relative;
+	padding-top: 35px;
 }
 
 .blk-bg {
@@ -83,10 +84,6 @@ div#learn-links div, div p {
 	display: block;
 }
 
-.primary-logo {
-	margin-top: 30px;
-}
-
 .title-sub {
 	font-size: 25px;
 	font-weight: bold;
@@ -133,7 +130,7 @@ p {
 
 .hi {
 	color: rgba(242,242,242,1);
-	padding-top: 110px;
+	padding-top: 90px;
 	padding-bottom: 40px;
 	font-size: 55px;
 	font-weight: bold;
