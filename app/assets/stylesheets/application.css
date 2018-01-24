@@ -28,7 +28,9 @@
 
     .accepting { font-size: 15px; }
 
-	#me i { font-size: 13px; }
+    #me { padding-top: 40px; }
+
+	#me i { font-size: 20px; }
 
 	#social i { font-size: 16px; }
 
@@ -48,7 +50,9 @@
 
     .accepting { font-size: 15px; }
 
-	#me i { font-size: 13px; }
+    #me { padding-top: 40px; }
+
+	#me i { font-size: 20px; }
 
 	#social i { font-size: 16px; }
 
@@ -69,7 +73,9 @@
 
     .accepting { font-size: 15px; }
 
-	#me i { font-size: 13px; }
+    #me { padding-top: 40px; }
+
+	#me i { font-size: 20px; }
 
 	#social i { font-size: 16px; }
 
@@ -79,27 +85,112 @@
 
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-/* Styles */
+
+    .hi { font-size: 25px; }
+    
+    .title-sub, .learn-more a { font-size: 21px; }
+
+	p { font-size: 17px; }
+
+	.boldBlk { font-size: 23px; }
+
+    .accepting { font-size: 20px; }
+
+    #me { padding-top: 45px; }
+
+	#me i { font-size: 25px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 17px; }	
 }
 
 /* iPads (landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-/* Styles */
+
+    .hi { font-size: 25px; }
+    
+    .title-sub, .learn-more a { font-size: 21px; }
+
+	p { font-size: 17px; }
+
+	.boldBlk { font-size: 23px; }
+
+    .accepting { font-size: 20px; }
+
+    #me { padding-top: 45px; }
+
+	#me i { font-size: 25px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 17px; }
 }
 
 /* iPads (portrait) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
-/* Styles */
+    
+    .hi { font-size: 25px; }
+    
+    .title-sub, .learn-more a { font-size: 21px; }
+
+	p { font-size: 17px; }
+
+	.boldBlk { font-size: 23px; }
+
+    .accepting { font-size: 20px; }
+
+    #me { padding-top: 45px; }
+
+	#me i { font-size: 25px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 17px; }
 }
 /**********
 iPad 3
 **********/
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
-/* Styles */
+    
+    .hi { font-size: 25px; }
+    
+    .title-sub, .learn-more a { font-size: 21px; }
+
+	p { font-size: 17px; }
+
+	.boldBlk { font-size: 23px; }
+
+    .accepting { font-size: 20px; }
+
+    #me { padding-top: 45px; }
+
+	#me i { font-size: 25px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 17px; }
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
-/* Styles */
+
+    .hi { font-size: 25px; }
+    
+    .title-sub, .learn-more a { font-size: 21px; }
+
+	p { font-size: 17px; }
+
+	.boldBlk { font-size: 23px; }
+
+    .accepting { font-size: 20px; }
+
+    #me { padding-top: 45px; }
+
+	#me i { font-size: 25px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 17px; }
 }
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 1224px) {
@@ -233,7 +324,6 @@ body {
 	#me {
 		height: 500px;
 		text-align: center;
-		padding-top: 80px;
 		margin-bottom: 50px;
 	}
 	.sub-footer {
