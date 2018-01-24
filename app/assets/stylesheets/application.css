@@ -85,7 +85,7 @@ div#learn-links div, div p {
 }
 
 .title-sub {
-	font-size: 25px;
+	font-size: 1.8vw;
 	font-weight: bold;
 }
 
@@ -100,22 +100,22 @@ img {
 }
 
 .learn-more a {
-	font-size: 25px;
+	font-size: 1.8vw;
 	color: rgba(102,179,255,0.9);
 }
 
 p {
-	font-size: 17px;
+	font-size: 1.24vw;
 }
 
 .boldBlk {
 	font-weight: bold;
-	font-size: 35px;
+	font-size: 2.55vw;
 	color: black;
 }
 
 .accepting {
-	font-size: 24px;
+	font-size: 1.75vw;
 }
 
 .work-image {
@@ -132,7 +132,7 @@ p {
 	color: rgba(242,242,242,1);
 	padding-top: 90px;
 	padding-bottom: 40px;
-	font-size: 10vw;
+	font-size: 4vw;
 	font-weight: bold;
 }
 
@@ -141,11 +141,11 @@ p {
 }
 
 #me i {
-	font-size: 5em;
+	font-size: 3.16vw;
 }
 
 #social i {
-	font-size: 3em;
+	font-size: 3.1vw;
 }
 
 #lm1 {
@@ -167,7 +167,7 @@ p {
 
 .copyr {
 	margin-top: 30px;
-	font-size: 15px;
+	font-size: 1.1vw;
 }
 
 .social-links {
