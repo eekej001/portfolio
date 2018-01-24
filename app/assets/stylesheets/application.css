@@ -37,12 +37,44 @@
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
-/* Styles */
+    
+    .hi { font-size: 27px; }
+    
+    .title-sub, .learn-more a { font-size: 12px; }
+
+	p { font-size: 8px; }
+
+	.boldBlk { font-size: 17px; }
+
+    .accepting { font-size: 12px; }
+
+	#me i { font-size: 35px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 7px; }	
+}
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
-/* Styles */
+    
+    .hi { font-size: 27px; }
+    
+    .title-sub, .learn-more a { font-size: 12px; }
+
+	p { font-size: 8px; }
+
+	.boldBlk { font-size: 17px; }
+
+    .accepting { font-size: 12px; }
+
+	#me i { font-size: 35px; }
+
+	#social i { font-size: 21px; }
+
+	.copyr { font-size: 7px; }	
+}
 }
 
 /* iPads (portrait and landscape) ----------- */
