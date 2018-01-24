@@ -18,62 +18,62 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .hi { font-size: 27px; }
+    .hi { font-size: 20px; }
     
-    .title-sub, .learn-more a { font-size: 20px; }
+    .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 20px; }
+	p { font-size: 12px; }
 
-	.boldBlk { font-size: 27px; }
+	.boldBlk { font-size: 18px; }
 
-    .accepting { font-size: 20px; }
+    .accepting { font-size: 15px; }
 
-	#me i { font-size: 35px; }
+	#me i { font-size: 13px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 13px; }
 
-	.copyr { font-size: 20px; }	
+	.copyr { font-size: 12px; }	
 }
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
     
-    .hi { font-size: 27px; }
+    .hi { font-size: 20px; }
     
-    .title-sub, .learn-more a { font-size: 20px; }
+    .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 20px; }
+	p { font-size: 12px; }
 
-	.boldBlk { font-size: 27px; }
+	.boldBlk { font-size: 18px; }
 
-    .accepting { font-size: 20px; }
+    .accepting { font-size: 15px; }
 
-	#me i { font-size: 35px; }
+	#me i { font-size: 13px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 13px; }
 
-	.copyr { font-size: 20px; }	
+	.copyr { font-size: 12px; }		
 
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
     
-    .hi { font-size: 27px; }
+    .hi { font-size: 20px; }
     
-    .title-sub, .learn-more a { font-size: 20px; }
+    .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 20px; }
+	p { font-size: 12px; }
 
-	.boldBlk { font-size: 27px; }
+	.boldBlk { font-size: 18px; }
 
-    .accepting { font-size: 20px; }
+    .accepting { font-size: 15px; }
 
-	#me i { font-size: 35px; }
+	#me i { font-size: 13px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 13px; }
 
-	.copyr { font-size: 20px; }	
+	.copyr { font-size: 12px; }		
 
 }
 
@@ -345,38 +345,3 @@ body {
 	.social-links {
 		margin-top: 20px;
 	}
-
-
-
-
-	/*
-	.title-sub, .learn-more a {
-		font-size: 1.8vw;
-	}
-
-	p {
-		font-size: 1.24vw;
-	}
-
-	.boldBlk {
-		font-size: 2.55vw;
-	}
-
-	.accepting {
-		font-size: 1.75vw;
-	}
-
-
-	#me i {
-		font-size: 3.16vw;
-	}
-
-	#social i {
-		font-size: 3.1vw;
-	}
-
-
-	.copyr {
-		font-size: 1.1vw;
-	}
-	*/
