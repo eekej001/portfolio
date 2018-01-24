@@ -18,7 +18,7 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .hi { font-size: 20px; }
+    .hi { font-size: 17px; }
     
     .title-sub, .learn-more a { font-size: 16px; }
 
@@ -30,7 +30,7 @@
 
 	#me i { font-size: 13px; }
 
-	#social i { font-size: 13px; }
+	#social i { font-size: 16px; }
 
 	.copyr { font-size: 12px; }	
 }
@@ -50,7 +50,7 @@
 
 	#me i { font-size: 13px; }
 
-	#social i { font-size: 13px; }
+	#social i { font-size: 16px; }
 
 	.copyr { font-size: 12px; }		
 
@@ -71,7 +71,7 @@
 
 	#me i { font-size: 13px; }
 
-	#social i { font-size: 13px; }
+	#social i { font-size: 16px; }
 
 	.copyr { font-size: 12px; }		
 
@@ -192,17 +192,6 @@ iPad 3
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 body {
 	 	font-family: 'Montserrat', sans-serif;
 	 	text-align: center;
@@ -289,10 +278,6 @@ body {
 
 	.learn-more a {
 		color: rgba(102,179,255,0.9);
-	}
-
-	p {
-		font-size: 1.24vw;
 	}
 
 	.boldBlk {
