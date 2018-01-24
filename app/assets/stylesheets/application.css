@@ -20,19 +20,19 @@
 
     .hi { font-size: 27px; }
     
-    .title-sub, .learn-more a { font-size: 12px; }
+    .title-sub, .learn-more a { font-size: 20px; }
 
 	p { font-size: 20px; }
 
-	.boldBlk { font-size: 17px; }
+	.boldBlk { font-size: 27px; }
 
-    .accepting { font-size: 12px; }
+    .accepting { font-size: 20px; }
 
 	#me i { font-size: 35px; }
 
 	#social i { font-size: 21px; }
 
-	.copyr { font-size: 7px; }	
+	.copyr { font-size: 20px; }	
 }
 
 /* Smartphones (landscape) ----------- */
@@ -40,19 +40,19 @@
     
     .hi { font-size: 27px; }
     
-    .title-sub, .learn-more a { font-size: 12px; }
+    .title-sub, .learn-more a { font-size: 20px; }
 
 	p { font-size: 20px; }
 
-	.boldBlk { font-size: 17px; }
+	.boldBlk { font-size: 27px; }
 
-    .accepting { font-size: 12px; }
+    .accepting { font-size: 20px; }
 
 	#me i { font-size: 35px; }
 
 	#social i { font-size: 21px; }
 
-	.copyr { font-size: 7px; }	
+	.copyr { font-size: 20px; }	
 
 }
 
@@ -61,19 +61,19 @@
     
     .hi { font-size: 27px; }
     
-    .title-sub, .learn-more a { font-size: 12px; }
+    .title-sub, .learn-more a { font-size: 20px; }
 
 	p { font-size: 20px; }
 
-	.boldBlk { font-size: 17px; }
+	.boldBlk { font-size: 27px; }
 
-    .accepting { font-size: 12px; }
+    .accepting { font-size: 20px; }
 
 	#me i { font-size: 35px; }
 
 	#social i { font-size: 21px; }
 
-	.copyr { font-size: 7px; }	
+	.copyr { font-size: 20px; }	
 
 }
 
