@@ -18,33 +18,33 @@
  @media only screen and (max-width : 320px) {
 
 	.title-sub, .learn-more a {
-		font-size: 3.6vw;
+		font-size: 36vw;
 	}
 
 	p {
-		font-size: 2.48vw;
+		font-size: 24.8vw;
 	}
 
 	.boldBlk {
-		font-size: 5.1vw;
+		font-size: 51vw;
 	}
 
 	.accepting {
-		font-size: 1.75vw;
+		font-size: 17.5vw;
 	}
 
 
 	#me i {
-		font-size: 3.5vw;
+		font-size: 35vw;
 	}
 
 	#social i {
-		font-size: 6.2vw;
+		font-size: 62vw;
 	}
 
 
 	.copyr {
-		font-size: 2.2vw;
+		font-size: 22vw;
 	}
 }
 
