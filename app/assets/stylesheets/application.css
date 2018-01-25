@@ -104,6 +104,8 @@
 
 	p { font-size: 17px; }
 
+	.exp-stat { font-size: 20px; }
+
 	.boldBlk { font-size: 23px; }
 
     .accepting { font-size: 20px; }
@@ -130,9 +132,11 @@
 
 	p { font-size: 17px; }
 
+	.exp-stat { font-size: 20px; }
+
 	.boldBlk { font-size: 23px; }
 
-    .accepting { font-size: 20px; }
+    .accepting { font-size: 18px; }
 
     #me { padding-top: 45px; }
 
@@ -160,9 +164,11 @@
 
 	p { font-size: 14px; }
 
+	.exp-stat { font-size: 18px; }
+
 	.boldBlk { font-size: 23px; }
 
-    .accepting { font-size: 17px; }
+    .accepting { font-size: 15px; }
 
     #me { padding-top: 45px; }
 
@@ -189,6 +195,8 @@
     .learn-more a { font-size: 20px; }
 
 	p { font-size: 14px; }
+
+	.exp-stat { font-size: 18px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -217,6 +225,8 @@
 
 	p { font-size: 17px; }
 
+	.exp-stat { font-size: 18px; }
+
 	.boldBlk { font-size: 23px; }
 
     .accepting { font-size: 20px; }
@@ -244,6 +254,8 @@ iPad 3
 
 	p { font-size: 17px; }
 
+	.exp-stat { font-size: 18px; }
+
 	.boldBlk { font-size: 23px; }
 
     .accepting { font-size: 20px; }
@@ -269,6 +281,8 @@ iPad 3
 
 	p { font-size: 17px; }
 
+	.exp-stat { font-size: 18px; }
+
 	.boldBlk { font-size: 23px; }
 
     .accepting { font-size: 20px; }
@@ -293,9 +307,11 @@ iPad 3
 
 	p { font-size: 14px; }
 
+	.exp-stat { font-size: 18px; }
+
 	.boldBlk { font-size: 35px; }
 
-    .accepting { font-size: 20px; }
+    .accepting { font-size: 18px; }
 
 	#me i { font-size: 70px; }
 
@@ -313,7 +329,9 @@ iPad 3
     
     .title-sub, .learn-more a { font-size: 20px; }
 
-	p { font-size: 17px; }
+	p { font-size: 16px; }
+
+	.exp-stat { font-size: 19px; }
 
 	.boldBlk { font-size: 35px; }
 
