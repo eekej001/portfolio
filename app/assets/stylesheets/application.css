@@ -22,7 +22,7 @@
     
     .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 12px; }
+	p { font-size: 14px; }
 
 	.boldBlk { font-size: 18px; }
 
@@ -32,7 +32,7 @@
 
 	#me i { font-size: 60px; }
 
-	#social i { font-size: 16px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 12px; }	
 }
@@ -44,7 +44,7 @@
     
     .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 12px; }
+	p { font-size: 14px; }
 
 	.boldBlk { font-size: 18px; }
 
@@ -54,7 +54,7 @@
 
 	#me i { font-size: 60px; }
 
-	#social i { font-size: 16px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 12px; }		
 
@@ -67,7 +67,7 @@
     
     .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 12px; }
+	p { font-size: 14px; }
 
 	.boldBlk { font-size: 18px; }
 
@@ -77,7 +77,7 @@
 
 	#me i { font-size: 60px; }
 
-	#social i { font-size: 16px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 12px; }		
 
@@ -86,9 +86,9 @@
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 
-    .hi { font-size: 25px; }
+    .hi { font-size: 42px; }
     
-    .title-sub, .learn-more a { font-size: 21px; }
+    .title-sub, .learn-more a { font-size: 35px; }
 
 	p { font-size: 17px; }
 
@@ -100,7 +100,7 @@
 
 	#me i { font-size: 70px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }	
 }
@@ -108,9 +108,9 @@
 /* iPads (landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 
-    .hi { font-size: 25px; }
+    .hi { font-size: 42px; }
     
-    .title-sub, .learn-more a { font-size: 21px; }
+    .title-sub, .learn-more a { font-size: 35px; }
 
 	p { font-size: 17px; }
 
@@ -122,7 +122,7 @@
 
 	#me i { font-size: 70px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
 }
@@ -130,9 +130,9 @@
 /* iPads (portrait) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
     
-    .hi { font-size: 25px; }
+    .hi { font-size: 42px; }
     
-    .title-sub, .learn-more a { font-size: 21px; }
+    .title-sub, .learn-more a { font-size: 35px; }
 
 	p { font-size: 17px; }
 
@@ -144,7 +144,7 @@
 
 	#me i { font-size: 70px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
 }
@@ -153,9 +153,9 @@ iPad 3
 **********/
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
     
-    .hi { font-size: 25px; }
+    .hi { font-size: 42px; }
     
-    .title-sub, .learn-more a { font-size: 21px; }
+    .title-sub, .learn-more a { font-size: 35px; }
 
 	p { font-size: 17px; }
 
@@ -163,20 +163,20 @@ iPad 3
 
     .accepting { font-size: 20px; }
 
-    #me { padding-top: 45px; margin-bottom: 100px; }
+    #me { padding-top: 45px; }
 
 	#me i { font-size: 70px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
 
-    .hi { font-size: 25px; }
+    .hi { font-size: 42px; }
     
-    .title-sub, .learn-more a { font-size: 21px; }
+    .title-sub, .learn-more a { font-size: 35px; }
 
 	p { font-size: 17px; }
 
@@ -184,11 +184,11 @@ iPad 3
 
     .accepting { font-size: 20px; }
 
-    #me { padding-top: 45px; margin-bottom: 100px; }
+    #me { padding-top: 45px; }
 
 	#me i { font-size: 70px; }
 
-	#social i { font-size: 21px; }
+	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
 }
@@ -322,13 +322,13 @@ body {
 	}
 
 	#me {
-		height: 500px;
+		height: auto;
 		text-align: center;
 	}
 	.sub-footer {
 		background-color: #FED766;
 		color: #252a30;
-		height: 300px;
+		height: auto;
 		padding-top: 80px;
 	}
 
