@@ -511,10 +511,6 @@ body {
 		text-transform: uppercase;
 	}
 
-	.learn-more a {
-		color: rgba(102,179,255,0.9);
-	}
-
 	.boldBlk {
 		font-weight: bold;
 		color: black;
@@ -573,18 +569,26 @@ body {
 
 	a.learn {
 		color: rgba(255,255,255,0.9);
+		text-decoration: none;
+	}
+
+	.button {
+		transition: all .3s ease-in-out;
+		border-radius: 50px;
+		text-decoration: none;
+		cursor: pointer;
 	}
 
 	.button-hire {
 		color:#fff;
 		border: 2px solid #FED766;
 		background-color: transparent;
-		padding: 1.4em 3.2em;
+		padding: 1.4em 1.5em;
 	}
 
 	.button-hire:hover {
 	    color:#252a30;
 	    border:2px solid #fff;
         background-color:#FED766;
-        padding:1.4em 4.2em
+        padding:1.1em 2em
 	}
