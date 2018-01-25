@@ -586,11 +586,14 @@ body {
 		border: 2px solid #FED766;
 		background-color: transparent;
 		padding: 1.4em 1.5em;
+		font-weight: 700;
+		text-decoration: none;
 	}
 
 	.button-hire:hover {
 	    color:#252a30;
 	    border:2px solid #FED766;
         background-color:#FED766;
-        padding:1.4em 2em
+        padding:1.4em 2em;
+        text-decoration: none;
 	}
