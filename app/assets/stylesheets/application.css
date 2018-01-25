@@ -18,21 +18,23 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .hi { font-size: 17px; }
+    .hi { font-size: 17px; line-height: 1.5; }
     
     .title-sub, .learn-more a { font-size: 16px; }
 
-	p { font-size: 14px; }
+	p { font-size: 14px; line-height: 1.7; }
 
 	.boldBlk { font-size: 18px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 100px; }
+    #me { padding-top: 40px; margin-bottom: 80px; }
 
 	#me i { font-size: 60px; }
 
-	#social i { font-size: 25px; }
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
+	#social i { font-size: 40px; }
 
 	.copyr { font-size: 12px; }	
 }
@@ -50,11 +52,13 @@
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 100px; }
+    #me { padding-top: 40px; margin-bottom: 80px; }
 
 	#me i { font-size: 60px; }
 
-	#social i { font-size: 25px; }
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
+	#social i { font-size: 40px; }
 
 	.copyr { font-size: 12px; }		
 
@@ -73,11 +77,13 @@
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 100px; }
+    #me { padding-top: 40px; margin-bottom: 80px; }
 
 	#me i { font-size: 60px; }
 
-	#social i { font-size: 25px; }
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
+	#social i { font-size: 40px; }
 
 	.copyr { font-size: 12px; }		
 
@@ -99,6 +105,8 @@
     #me { padding-top: 45px; }
 
 	#me i { font-size: 70px; }
+
+	#work { padding-top: 60px; padding-bottom: 60px; }
 
 	#social i { font-size: 25px; }
 
@@ -122,6 +130,8 @@
 
 	#me i { font-size: 70px; }
 
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
 	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
@@ -143,6 +153,8 @@
     #me { padding-top: 45px; }
 
 	#me i { font-size: 70px; }
+
+	#work { padding-top: 60px; padding-bottom: 60px; }
 
 	#social i { font-size: 25px; }
 
@@ -167,6 +179,8 @@ iPad 3
 
 	#me i { font-size: 70px; }
 
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
 	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
@@ -188,6 +202,8 @@ iPad 3
 
 	#me i { font-size: 70px; }
 
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
 	#social i { font-size: 25px; }
 
 	.copyr { font-size: 17px; }
@@ -206,6 +222,8 @@ iPad 3
     .accepting { font-size: 24px; }
 
 	#me i { font-size: 70px; }
+
+	#work { padding-top: 80px; padding-bottom: 80px; }
 
 	#social i { font-size: 42px; }
 
@@ -317,8 +335,6 @@ body {
 
 	#work {
 		background-color: #eee;
-		padding-top: 80px;
-		padding-bottom: 80px;
 	}
 
 	#me {
@@ -330,12 +346,14 @@ body {
 		color: #252a30;
 		height: auto;
 		padding-top: 80px;
+		padding-bottom: 80px;
 	}
 
 	footer {
 		background-color: #252a30;
-		height: 250px;
+		height: auto;
 		padding-top: 40px;
+		padding-bottom: 50px;
 	}
 
 	footer p {
