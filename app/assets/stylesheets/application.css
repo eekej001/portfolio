@@ -150,11 +150,13 @@
 
 @media only screen and (min-device-width : 600px) {
 
+	body { line-height: 1.7; }
+
     .hi { font-size: 40px; }
     
-    .title-sub { font-size: 25px; }
+    .title-sub { font-size: 30px; }
     
-    .learn-more a { font-size: 30px; }
+    .learn-more a { font-size: 20px; }
 
 	p { font-size: 14px; }
 
@@ -174,6 +176,37 @@
 
 	.work-image { width: 80%; height: 80%; }
 }
+
+
+@media only screen and (min-device-width : 400px) {
+
+	body { line-height: 1.7; }
+
+    .hi { font-size: 40px; }
+    
+    .title-sub { font-size: 30px; }
+    
+    .learn-more a { font-size: 20px; }
+
+	p { font-size: 14px; }
+
+	.boldBlk { font-size: 23px; }
+
+    .accepting { font-size: 20px; }
+
+    #me { padding-top: 45px; }
+
+	#me i { font-size: 70px; }
+
+	#work { padding-top: 60px; padding-bottom: 60px; }
+
+	#social i { font-size: 42px; }
+
+	.copyr { font-size: 17px; }
+
+	.work-image { width: 75%; height: 75%; }
+}
+
 
 /* iPads (portrait) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
@@ -258,7 +291,7 @@ iPad 3
     
     .title-sub, .learn-more a { font-size: 25px; }
 
-	p { font-size: 17px; }
+	p { font-size: 14px; }
 
 	.boldBlk { font-size: 35px; }
 
