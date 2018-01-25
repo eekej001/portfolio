@@ -215,11 +215,33 @@ iPad 3
 	.copyr { font-size: 17px; }
 }
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 900px)  {
+@media only screen  and (min-width : 1000px)  {
 
 	.hi { font-size: 55px; }
     
     .title-sub, .learn-more a { font-size: 25px; }
+
+	p { font-size: 17px; }
+
+	.boldBlk { font-size: 35px; }
+
+    .accepting { font-size: 24px; }
+
+	#me i { font-size: 70px; }
+
+	#work { padding-top: 80px; padding-bottom: 80px; }
+
+	#social i { font-size: 42px; }
+
+	.copyr { font-size: 15px; }	
+}
+
+
+@media only screen  and (min-width : 800px)  {
+
+	.hi { font-size: 45px; }
+    
+    .title-sub, .learn-more a { font-size: 20px; }
 
 	p { font-size: 17px; }
 
