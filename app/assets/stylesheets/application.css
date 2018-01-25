@@ -18,80 +18,104 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .hi { font-size: 27px; line-height: 1.5; }
+    .hi { font-size: 15px; line-height: 1.5; }
+
+	h1 { font-size: 20px; }
     
     .title-sub { font-size: 19px; }
 
-    .learn-more a { font-size: 16px; }
+    .learn-more a { font-size: 10px; }
 
-	p { font-size: 14px; line-height: 1.7; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
-	.boldBlk { font-size: 18px; }
+	p.descr { padding-bottom: 40px; }
+
+	.exp-stat { font-size: 19px; }
+
+	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 80px; }
+    #me { padding-top: 40px; margin-bottom: 60px; }
 
-	#me i { font-size: 60px; }
+	#me i { font-size: 40px; }
 
 	#work { padding-top: 60px; padding-bottom: 60px; }
 
-	#social i { font-size: 40px; }
+	#social i { font-size: 30px; }
 
-	.copyr { font-size: 12px; }	
+	.copyr { font-size: 9px; }	
+
+	.work-image { width: 70%; height: 70%; }
 }
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
     
-    .hi { font-size: 30px; }
+    .hi { font-size: 15px; line-height: 1.5; }
+
+	h1 { font-size: 20px; }
     
     .title-sub { font-size: 19px; }
-    
-    .learn-more a { font-size: 16px; }
 
-	p { font-size: 14px; }
+    .learn-more a { font-size: 10px; }
 
-	.boldBlk { font-size: 18px; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+
+	p.descr { padding-bottom: 40px; }
+
+	.exp-stat { font-size: 19px; }
+
+	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 80px; }
+    #me { padding-top: 40px; margin-bottom: 60px; }
 
-	#me i { font-size: 60px; }
+	#me i { font-size: 40px; }
 
 	#work { padding-top: 60px; padding-bottom: 60px; }
 
-	#social i { font-size: 40px; }
+	#social i { font-size: 30px; }
 
-	.copyr { font-size: 12px; }		
+	.copyr { font-size: 9px; }	
+
+	.work-image { width: 70%; height: 70%; }	
 
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
     
-    .hi { font-size: 30px; }
+    .hi { font-size: 15px; line-height: 1.5; }
+
+	h1 { font-size: 20px; }
     
     .title-sub { font-size: 19px; }
-    
-    .learn-more a { font-size: 16px; }
 
-	p { font-size: 14px; }
+    .learn-more a { font-size: 10px; }
 
-	.boldBlk { font-size: 18px; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+
+	p.descr { padding-bottom: 40px; }
+
+	.exp-stat { font-size: 19px; }
+
+	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 80px; }
+    #me { padding-top: 40px; margin-bottom: 60px; }
 
-	#me i { font-size: 60px; }
+	#me i { font-size: 40px; }
 
 	#work { padding-top: 60px; padding-bottom: 60px; }
 
-	#social i { font-size: 40px; }
+	#social i { font-size: 30px; }
 
-	.copyr { font-size: 12px; }		
+	.copyr { font-size: 9px; }	
+
+	.work-image { width: 70%; height: 70%; }		
 
 }
 
@@ -302,7 +326,7 @@ iPad 3
 
 @media only screen  and (min-width : 300px)  {
 
-	.hi { font-size: 15px; }
+	.hi { font-size: 15px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -310,19 +334,21 @@ iPad 3
 
     .learn-more a { font-size: 10px; }
 
-	p { font-size: 11px; width:75%; margin: auto; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
 	p.descr { padding-bottom: 40px; }
 
 	.exp-stat { font-size: 19px; }
 
-	.boldBlk { font-size: 20px; }
+	.boldBlk { font-size: 28px; }
 
-    .accepting { font-size: 12px; }
+    .accepting { font-size: 15px; }
+
+    #me { padding-top: 40px; margin-bottom: 60px; }
 
 	#me i { font-size: 40px; }
 
-	#work { padding-top: 80px; padding-bottom: 80px; }
+	#work { padding-top: 60px; padding-bottom: 60px; }
 
 	#social i { font-size: 30px; }
 
