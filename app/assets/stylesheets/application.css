@@ -20,7 +20,9 @@
 
     .hi { font-size: 17px; line-height: 1.5; }
     
-    .title-sub, .learn-more a { font-size: 16px; }
+    .title-sub { font-size: 19px; }
+
+    .learn-more a { font-size: 16px; }
 
 	p { font-size: 14px; line-height: 1.7; }
 
@@ -44,7 +46,9 @@
     
     .hi { font-size: 20px; }
     
-    .title-sub, .learn-more a { font-size: 16px; }
+    .title-sub { font-size: 19px; }
+    
+    .learn-more a { font-size: 16px; }
 
 	p { font-size: 14px; }
 
@@ -69,7 +73,9 @@
     
     .hi { font-size: 20px; }
     
-    .title-sub, .learn-more a { font-size: 16px; }
+    .title-sub { font-size: 19px; }
+    
+    .learn-more a { font-size: 16px; }
 
 	p { font-size: 14px; }
 
@@ -209,7 +215,7 @@ iPad 3
 	.copyr { font-size: 17px; }
 }
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1224px) {
+@media only screen  and (min-width : 1224px), (min-width : 1200px), (min-width : 1100px)  {
 
 	.hi { font-size: 55px; }
     
