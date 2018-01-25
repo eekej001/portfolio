@@ -543,7 +543,8 @@ body {
 	}
 
 	#lm1 {
-		margin-bottom: 20px;
+		padding-top: 30px;
+		padding-bottom: 60px;
 	}
 
 	.yellow {
@@ -577,6 +578,7 @@ body {
 		border-radius: 50px;
 		text-decoration: none;
 		cursor: pointer;
+		letter-spacing: 0;
 	}
 
 	.button-hire {
@@ -588,7 +590,7 @@ body {
 
 	.button-hire:hover {
 	    color:#252a30;
-	    border:2px solid #fff;
+	    border:2px solid #FED766;
         background-color:#FED766;
-        padding:1.1em 2em
+        padding:1.4em 2em
 	}
