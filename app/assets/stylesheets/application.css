@@ -18,7 +18,7 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .hi { font-size: 15px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -28,31 +28,39 @@
 
 	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
+	p.quest { margin-bottom: 20px; }
+
+	p.line { line-height: 1; }
+
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 17px; }
 
 	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 60px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
 	#me i { font-size: 40px; }
 
-	#work { padding-top: 60px; padding-bottom: 60px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
 	#social i { font-size: 30px; }
 
 	.copyr { font-size: 9px; }	
 
 	.work-image { width: 70%; height: 70%; }
+
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+
+	footer { padding-top: 40px; padding-bottom: 30px; }
 }
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
     
-    .hi { font-size: 15px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -62,32 +70,40 @@
 
 	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
+	p.quest { margin-bottom: 20px; }
+
+	p.line { line-height: 1; }
+
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 17px; }
 
 	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 60px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
 	#me i { font-size: 40px; }
 
-	#work { padding-top: 60px; padding-bottom: 60px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
 	#social i { font-size: 30px; }
 
 	.copyr { font-size: 9px; }	
 
-	.work-image { width: 70%; height: 70%; }	
+	.work-image { width: 70%; height: 70%; }
+
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+
+	footer { padding-top: 40px; padding-bottom: 30px; }	
 
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
     
-    .hi { font-size: 15px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -97,25 +113,33 @@
 
 	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
+	p.quest { margin-bottom: 20px; }
+
+	p.line { line-height: 1; }
+
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 17px; }
 
 	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 60px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
 	#me i { font-size: 40px; }
 
-	#work { padding-top: 60px; padding-bottom: 60px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
 	#social i { font-size: 30px; }
 
 	.copyr { font-size: 9px; }	
 
-	.work-image { width: 70%; height: 70%; }		
+	.work-image { width: 70%; height: 70%; }
+
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+
+	footer { padding-top: 40px; padding-bottom: 30px; }		
 
 }
 
@@ -326,7 +350,7 @@ iPad 3
 
 @media only screen  and (min-width : 300px)  {
 
-	.hi { font-size: 15px; line-height: 1.5; }
+	.hi { font-size: 17px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -336,30 +360,38 @@ iPad 3
 
 	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
+	p.quest { margin-bottom: 20px; }
+
+	p.line { line-height: 1; }
+
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 17px; }
 
 	.boldBlk { font-size: 28px; }
 
     .accepting { font-size: 15px; }
 
-    #me { padding-top: 40px; margin-bottom: 60px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
 	#me i { font-size: 40px; }
 
-	#work { padding-top: 60px; padding-bottom: 60px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
 	#social i { font-size: 30px; }
 
 	.copyr { font-size: 9px; }	
 
 	.work-image { width: 70%; height: 70%; }
+
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+
+	footer { padding-top: 40px; padding-bottom: 30px; }
 }
 
 
 
-@media only screen  and (min-width : 450px)  {
+@media only screen  and (min-width : 420px)  {
 
 	.hi { font-size: 24px; }
 
@@ -388,6 +420,10 @@ iPad 3
 	.copyr { font-size: 12px; }	
 
 	.work-image { width: 70%; height: 70%; }
+
+	#sub-footer { padding-top: 60px; padding-bottom: 60px; }
+
+	footer { padding-top: 40px; padding-bottom: 30px; }
 }
 
 
@@ -418,6 +454,10 @@ iPad 3
 	.copyr { font-size: 15px; }	
 
 	.work-image { width: 80%; height: 80%; }
+
+	#sub-footer { padding-top: 60px; padding-bottom: 60px; }
+
+	footer { padding-top: 40px; padding-bottom: 40px; }
 }
 
 
@@ -447,6 +487,10 @@ iPad 3
 	.copyr { font-size: 15px; }	
 
 	.work-image { width: 90%; height: 90%; }
+
+	#sub-footer { padding-top: 70px; padding-bottom: 70px; }
+
+	footer { padding-top: 40px; padding-bottom: 40px; }
 }
 
 
@@ -473,6 +517,10 @@ iPad 3
 	#social i { font-size: 42px; }
 
 	.copyr { font-size: 15px; }	
+
+	#sub-footer { padding-top: 80px; padding-bottom: 80px; }
+
+	footer { padding-top: 40px; padding-bottom: 50px; }
 }
 
 /* Large screens ----------- */
@@ -586,19 +634,15 @@ body {
 		height: auto;
 		text-align: center;
 	}
-	.sub-footer {
+	#sub-footer {
 		background-color: #FED766;
 		color: #252a30;
 		height: auto;
-		padding-top: 80px;
-		padding-bottom: 80px;
 	}
 
 	footer {
 		background-color: #252a30;
 		height: auto;
-		padding-top: 40px;
-		padding-bottom: 50px;
 	}
 
 	footer p {
