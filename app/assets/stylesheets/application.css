@@ -513,6 +513,10 @@ body {
 		font-weight: bold;
 	}
 
+	.acc-cont {
+		width: 60%;
+	}
+
 	.email {
 		color: #5EA4F7;
 	}
