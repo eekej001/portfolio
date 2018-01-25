@@ -496,9 +496,9 @@ iPad 3
 
 @media only screen  and (min-width : 1100px)  {
 
-	.hi { font-size: 52px; }
+	.hi { font-size: 45px; }
     
-    .title-sub { font-size: 25px; }
+    .title-sub { font-size: 25px; font-weight: 700; }
 
     .learn-more a { font-size: 20px; }
 
@@ -603,6 +603,10 @@ body {
 		text-align: center;
 	}
 
+	.hi {
+		font-weight: 700;
+	}
+
     
 	.intro {
 		height: 100vh;
@@ -672,7 +676,7 @@ body {
 		display: block;
 	}
 
-	.learn-more {
+	.upc {
 		text-transform: uppercase;
 	}
 
