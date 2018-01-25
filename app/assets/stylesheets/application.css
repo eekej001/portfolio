@@ -300,6 +300,39 @@ iPad 3
 }
 /* Desktops and laptops ----------- */
 
+@media only screen  and (min-width : 100px)  {
+
+	.hi { font-size: 15px; }
+
+	h1 { font-size: 20px; }
+    
+    .title-sub { font-size: 19px; }
+
+    .learn-more a { font-size: 10px; }
+
+	p { font-size: 11px; width:75%; margin: auto; }
+
+	p.descr { padding-bottom: 40px; }
+
+	.exp-stat { font-size: 19px; }
+
+	.boldBlk { font-size: 20px; }
+
+    .accepting { font-size: 12px; }
+
+	#me i { font-size: 40px; }
+
+	#work { padding-top: 80px; padding-bottom: 80px; }
+
+	#social i { font-size: 30px; }
+
+	.copyr { font-size: 9px; }	
+
+	.work-image { width: 70%; height: 70%; }
+}
+
+
+
 @media only screen  and (min-width : 300px)  {
 
 	.hi { font-size: 24px; }
@@ -332,7 +365,7 @@ iPad 3
 }
 
 
-@media only screen  and (min-width : 550px)  {
+@media only screen  and (min-width : 600px)  {
 
 	.hi { font-size: 35px; }
     
@@ -363,7 +396,7 @@ iPad 3
 
 
 
-@media only screen  and (min-width : 800px)  {
+@media only screen  and (min-width : 850px)  {
 
 	.hi { font-size: 52px; }
     
