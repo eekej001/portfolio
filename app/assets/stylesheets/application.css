@@ -215,7 +215,7 @@ iPad 3
 	.copyr { font-size: 17px; }
 }
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1224px), (min-width : 1200px), (min-width : 1100px)  {
+@media only screen  and (min-width : 900px)  {
 
 	.hi { font-size: 55px; }
     
