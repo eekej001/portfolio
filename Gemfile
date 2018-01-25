@@ -19,6 +19,9 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
 gem 'delayed_job_active_record'
 gem 'paypal-sdk-rest'
+gem 'compass-rails'
+gem 'bourbon'
+gem 'neat'
 
 group :production do
   #gem 'pg'
