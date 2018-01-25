@@ -303,7 +303,7 @@ iPad 3
 
 @media only screen  and (min-width : 800px)  {
 
-	.hi { font-size: 55px; }
+	.hi { font-size: 52px; }
     
     .title-sub { font-size: 25px; }
 
@@ -569,4 +569,22 @@ body {
 
 	.social-links {
 		margin-top: 20px;
+	}
+
+	a.learn {
+		color: rgba(255,255,255,0.9);
+	}
+
+	.button-hire {
+		color:#fff;
+		border: 2px solid #FED766;
+		background-color: transparent;
+		padding: 1.4em 3.2em;
+	}
+
+	.button-hire:hover {
+	    color:#252a30;
+	    border:2px solid #fff;
+        background-color:#FED766;
+        padding:1.4em 4.2em
 	}
