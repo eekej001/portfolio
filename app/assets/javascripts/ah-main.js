@@ -7,11 +7,11 @@ jQuery(document).ready(function($){
 		//letters effect
 		lettersDelay = 50,
 		//type effect
-		typeLettersDelay = 100,
+		typeLettersDelay = 70,
 		selectionDuration = 450,
 		typeAnimationDelay = selectionDuration + 800,
 		//clip effect 
-		revealDuration = 600,
+		revealDuration = 500,
 		revealAnimationDelay = 1500;
 	
 	initHeadline();
