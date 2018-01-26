@@ -688,10 +688,11 @@ body {
 	.work-image {
 		margin-top: 20px;
 		margin-bottom: 20px;
+		transition: all .3s ease-in-out;
 	}
 
 	.work-image:hover {
-		border-radius: 50px;
+		border-radius: 25px;
 	}
 
 	.primary-logo img {
