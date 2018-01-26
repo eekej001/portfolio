@@ -9,10 +9,10 @@ jQuery(document).ready(function($){
 		//type effect
 		typeLettersDelay = 65,
 		selectionDuration = 300,
-		typeAnimationDelay = 0,
+		typeAnimationDelay = 50,
 		//clip effect 
 		revealDuration = 150,
-		revealAnimationDelay = 250;
+		revealAnimationDelay = 200;
 	
 	initHeadline();
 	
