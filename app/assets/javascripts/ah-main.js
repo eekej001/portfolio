@@ -7,12 +7,12 @@ jQuery(document).ready(function($){
 		//letters effect
 		lettersDelay = 50,
 		//type effect
-		typeLettersDelay = 50,
-		selectionDuration = 350,
+		typeLettersDelay = 60,
+		selectionDuration = 300,
 		typeAnimationDelay = selectionDuration + 800,
 		//clip effect 
-		revealDuration = 500,
-		revealAnimationDelay = 1500;
+		revealDuration = 400,
+		revealAnimationDelay = 1200;
 	
 	initHeadline();
 	
