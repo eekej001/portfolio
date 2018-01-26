@@ -690,6 +690,10 @@ body {
 		margin-bottom: 20px;
 	}
 
+	.work-image:hover {
+		border-radius: 50px;
+	}
+
 	.primary-logo img {
 		position: relative;
 		top: 7%;
