@@ -609,6 +609,9 @@ body {
 		width: 100%;
 		position: relative;
 		padding-top: 35px;
+		background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
 	}
 
 	.blk-bg {
