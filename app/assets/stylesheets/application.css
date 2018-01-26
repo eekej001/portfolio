@@ -464,7 +464,7 @@ iPad 3
 
 @media only screen  and (min-width : 850px)  {
 
-	.hi { font-size: 52px; }
+	.hi { font-size: 45px; }
     
     .title-sub { font-size: 25px; }
 
@@ -498,7 +498,7 @@ iPad 3
 
 	.hi { font-size: 45px; }
     
-    .title-sub { font-size: 25px; font-weight: 700; }
+    .title-sub { font-size: 25px; }
 
     .learn-more a { font-size: 20px; }
 
@@ -603,10 +603,6 @@ body {
 		text-align: center;
 	}
 
-	.hi {
-		font-weight: 700;
-	}
-
     
 	.intro {
 		height: 100vh;
@@ -663,11 +659,11 @@ body {
 	}
 
 	.title-sub {
-		font-weight: bold;
+		font-weight: 700;
 	}
 
 	.section-title {
-		font-weight: bold;
+		font-weight: 700;
 	}
 
 	img {
@@ -704,7 +700,7 @@ body {
 		color: rgba(242,242,242,1);
 		padding-top: 90px;
 		padding-bottom: 40px;
-		font-weight: bold;
+		font-weight: 700;
 	}
 
 	.acc-cont {
