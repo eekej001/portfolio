@@ -8,11 +8,11 @@ jQuery(document).ready(function($){
 		lettersDelay = 50,
 		//type effect
 		typeLettersDelay = 60,
-		selectionDuration = 300,
+		selectionDuration = 200,
 		typeAnimationDelay = selectionDuration + 800,
 		//clip effect 
-		revealDuration = 300,
-		revealAnimationDelay = 500;
+		revealDuration = 200,
+		revealAnimationDelay = 100;
 	
 	initHeadline();
 	
