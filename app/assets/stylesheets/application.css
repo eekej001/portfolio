@@ -589,12 +589,13 @@ iPad 3
 
 @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
+}
 
 /* iPhone X ------- */
 @media only screen 
-    and (device-width : 375px) 
-    and (device-height : 812px) 
-    and (-webkit-device-pixel-ratio : 3) {
+	and (device-width : 375px) 
+	and (device-height : 812px) 
+	and (-webkit-device-pixel-ratio : 3) {
 
     .logo { width: 100px; height: 100px; }
 
@@ -640,10 +641,9 @@ iPad 3
 
 	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
 
-	footer { padding-top: 100px; padding-bottom: 100px; }
-         
+	footer { padding-top: 100px; padding-bottom: 100px; }      
 
-     }
+ }
 
 /* Samsung Galaxy S3 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
