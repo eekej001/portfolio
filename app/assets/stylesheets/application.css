@@ -594,15 +594,15 @@ iPad 3
 
 @media only screen and (min-device-width : 375px) {
 
-    .hi { font-size: 90px; line-height: 1.5; }
+    .hi { font-size: 80px; line-height: 1.5; }
 
 	h1 { font-size: 60px; }
     
     .title-sub { font-size: 50px; }
 
-    .learn-more a { font-size: 40px; }
+    .learn-more a { font-size: 35px; }
 
-	p { font-size: 40px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
 
 	p.quest { margin-bottom: 20px; }
 
@@ -610,27 +610,29 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
+	.section-title { font-size: 70px; }
+
 	.exp-stat { font-size: 40px; }
 
-	.boldBlk { font-size: 50px; }
+	.boldBlk { font-size: 60px; }
 
     .accepting { font-size: 45px; }
 
-    #me { padding-top: 40px; margin-bottom: 30px; }
+    #me { padding-top: 160px; margin-bottom: 120px; }
 
-	#me i { font-size: 100px; }
+	#me i { font-size: 150px; }
 
-	#work { padding-top: 30px; padding-bottom: 30px; }
+	#work { padding-top: 120px; padding-bottom: 120px; }
 
-	#social i { font-size: 90px; }
+	#social i { font-size: 110px; }
 
 	.copyr { font-size: 30px; }	
 
-	.work-image { width: 75%; height: 75%; }
+	.work-image { width: 85%; height: 85%; }
 
-	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
 
-	footer { padding-top: 40px; padding-bottom: 30px; }
+	footer { padding-top: 100px; padding-bottom: 100px; }
 }
 
 
