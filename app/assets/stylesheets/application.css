@@ -350,7 +350,7 @@ iPad 3
 
 @media only screen  and (min-width : 300px)  {
 
-	.hi { font-size: 17px; line-height: 1.5; }
+	.hi { font-size: 50px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -393,7 +393,7 @@ iPad 3
 
 @media only screen  and (min-width : 420px)  {
 
-	.hi { font-size: 50px; }
+	.hi { font-size: 24px; }
 
 	h1 { font-size: 30px; }
     
