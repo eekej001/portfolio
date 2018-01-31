@@ -596,13 +596,13 @@ iPad 3
 
     .hi { font-size: 90px; line-height: 1.5; }
 
-	h1 { font-size: 65px; }
+	h1 { font-size: 45px; }
     
-    .title-sub { font-size: 70px; }
+    .title-sub { font-size: 50px; }
 
-    .learn-more a { font-size: 60px; }
+    .learn-more a { font-size: 50px; }
 
-	p { font-size: 60px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 40px; width:75%; margin: auto; line-height: 1.7; }
 
 	p.quest { margin-bottom: 20px; }
 
@@ -610,19 +610,19 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 60px; }
+	.exp-stat { font-size: 40px; }
 
-	.boldBlk { font-size: 70px; }
+	.boldBlk { font-size: 50px; }
 
-    .accepting { font-size: 65px; }
+    .accepting { font-size: 45px; }
 
     #me { padding-top: 40px; margin-bottom: 30px; }
 
-	#me i { font-size: 60px; }
+	#me i { font-size: 100px; }
 
 	#work { padding-top: 30px; padding-bottom: 30px; }
 
-	#social i { font-size: 60px; }
+	#social i { font-size: 90px; }
 
 	.copyr { font-size: 30px; }	
 
