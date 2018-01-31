@@ -594,15 +594,15 @@ iPad 3
 
 @media only screen and (min-device-width : 375px) {
 
-    .hi { font-size: 50px; line-height: 1.5; }
+    .hi { font-size: 100px; line-height: 1.5; }
 
-	h1 { font-size: 20px; }
+	h1 { font-size: 85px; }
     
-    .title-sub { font-size: 19px; }
+    .title-sub { font-size: 90px; }
 
-    .learn-more a { font-size: 10px; }
+    .learn-more a { font-size: 80px; }
 
-	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 80px; width:75%; margin: auto; line-height: 1.7; }
 
 	p.quest { margin-bottom: 20px; }
 
@@ -610,21 +610,21 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; }
+	.exp-stat { font-size: 80px; }
 
-	.boldBlk { font-size: 24px; }
+	.boldBlk { font-size: 90px; }
 
-    .accepting { font-size: 14px; }
+    .accepting { font-size: 85px; }
 
     #me { padding-top: 40px; margin-bottom: 30px; }
 
-	#me i { font-size: 40px; }
+	#me i { font-size: 90px; }
 
 	#work { padding-top: 30px; padding-bottom: 30px; }
 
-	#social i { font-size: 30px; }
+	#social i { font-size: 80px; }
 
-	.copyr { font-size: 10px; }	
+	.copyr { font-size: 50px; }	
 
 	.work-image { width: 75%; height: 75%; }
 
