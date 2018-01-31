@@ -18,19 +18,19 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .logo { width: 100px; height: 100px; }
+	.logo { width: 100px; height: 100px; }
 
-    .hi { font-size: 70px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
-	h1 { font-size: 60px; }
+	h1 { font-size: 20px; }
     
-    .title-sub { font-size: 50px; }
+    .title-sub { font-size: 19px; }
 
-    .learn-more a { font-size: 35px; }
+    .learn-more a { font-size: 10px; }
 
-	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 50px; }
+	p.quest { margin-bottom: 20px; }
 
 	p.line { line-height: 1; }
 
@@ -38,31 +38,27 @@
 
 	.section-title { font-size: 80px; }
 
-	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
-	.exp-block { margin-bottom: 100px; }
+	.boldBlk { font-size: 24px; }
 
-	.work-block {margin-bottom: 100px;}
+    .accepting { font-size: 14px; }
 
-	.boldBlk { font-size: 70px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
-    .accepting { font-size: 40px; }
+	#me i { font-size: 40px; }
 
-    #me { padding-top: 160px; margin-bottom: 100px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
-	#me i { font-size: 150px; }
+	#social i { font-size: 30px; }
 
-	#work { padding-top: 120px; padding-bottom: 80px; }
+	.copyr { font-size: 10px; }	
 
-	#social i { font-size: 110px; }
+	.work-image { width: 75%; height: 75%; }
 
-	.copyr { font-size: 30px; }	
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
 
-	.work-image { width: 85%; height: 85%; }
-
-	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
-
-	footer { padding-top: 100px; padding-bottom: 100px; }
+    footer { padding-top: 40px; padding-bottom: 30px; }
 }
 
 /* Smartphones (landscape) ----------- */
@@ -70,17 +66,17 @@
     
     .logo { width: 100px; height: 100px; }
 
-    .hi { font-size: 70px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
-	h1 { font-size: 60px; }
+	h1 { font-size: 20px; }
     
-    .title-sub { font-size: 50px; }
+    .title-sub { font-size: 19px; }
 
-    .learn-more a { font-size: 35px; }
+    .learn-more a { font-size: 10px; }
 
-	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 50px; }
+	p.quest { margin-bottom: 20px; }
 
 	p.line { line-height: 1; }
 
@@ -88,31 +84,27 @@
 
 	.section-title { font-size: 80px; }
 
-	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
-	.exp-block { margin-bottom: 100px; }
+	.boldBlk { font-size: 24px; }
 
-	.work-block {margin-bottom: 100px;}
+    .accepting { font-size: 14px; }
 
-	.boldBlk { font-size: 70px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
-    .accepting { font-size: 40px; }
+	#me i { font-size: 40px; }
 
-    #me { padding-top: 160px; margin-bottom: 100px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
-	#me i { font-size: 150px; }
+	#social i { font-size: 30px; }
 
-	#work { padding-top: 120px; padding-bottom: 80px; }
+	.copyr { font-size: 10px; }	
 
-	#social i { font-size: 110px; }
+	.work-image { width: 75%; height: 75%; }
 
-	.copyr { font-size: 30px; }	
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
 
-	.work-image { width: 85%; height: 85%; }
-
-	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
-
-	footer { padding-top: 100px; padding-bottom: 100px; }
+    footer { padding-top: 40px; padding-bottom: 30px; }
 
 }
 
@@ -121,17 +113,17 @@
     
     .logo { width: 100px; height: 100px; }
 
-    .hi { font-size: 70px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
-	h1 { font-size: 60px; }
+	h1 { font-size: 20px; }
     
-    .title-sub { font-size: 50px; }
+    .title-sub { font-size: 19px; }
 
-    .learn-more a { font-size: 35px; }
+    .learn-more a { font-size: 10px; }
 
-	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 50px; }
+	p.quest { margin-bottom: 20px; }
 
 	p.line { line-height: 1; }
 
@@ -139,31 +131,27 @@
 
 	.section-title { font-size: 80px; }
 
-	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
-	.exp-block { margin-bottom: 100px; }
+	.boldBlk { font-size: 24px; }
 
-	.work-block {margin-bottom: 100px;}
+    .accepting { font-size: 14px; }
 
-	.boldBlk { font-size: 70px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
-    .accepting { font-size: 40px; }
+	#me i { font-size: 40px; }
 
-    #me { padding-top: 160px; margin-bottom: 100px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
-	#me i { font-size: 150px; }
+	#social i { font-size: 30px; }
 
-	#work { padding-top: 120px; padding-bottom: 80px; }
+	.copyr { font-size: 10px; }	
 
-	#social i { font-size: 110px; }
+	.work-image { width: 75%; height: 75%; }
 
-	.copyr { font-size: 30px; }	
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
 
-	.work-image { width: 85%; height: 85%; }
-
-	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
-
-	footer { padding-top: 100px; padding-bottom: 100px; }		
+    footer { padding-top: 40px; padding-bottom: 30px; }		
 
 }
 
@@ -376,17 +364,17 @@ iPad 3
 
 	.logo { width: 100px; height: 100px; }
 
-    .hi { font-size: 70px; line-height: 1.5; }
+    .hi { font-size: 17px; line-height: 1.5; }
 
-	h1 { font-size: 60px; }
+	h1 { font-size: 20px; }
     
-    .title-sub { font-size: 50px; }
+    .title-sub { font-size: 19px; }
 
-    .learn-more a { font-size: 35px; }
+    .learn-more a { font-size: 10px; }
 
-	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
+	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 50px; }
+	p.quest { margin-bottom: 20px; }
 
 	p.line { line-height: 1; }
 
@@ -394,31 +382,27 @@ iPad 3
 
 	.section-title { font-size: 80px; }
 
-	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
-	.exp-block { margin-bottom: 100px; }
+	.boldBlk { font-size: 24px; }
 
-	.work-block {margin-bottom: 100px;}
+    .accepting { font-size: 14px; }
 
-	.boldBlk { font-size: 70px; }
+    #me { padding-top: 40px; margin-bottom: 30px; }
 
-    .accepting { font-size: 40px; }
+	#me i { font-size: 40px; }
 
-    #me { padding-top: 160px; margin-bottom: 100px; }
+	#work { padding-top: 30px; padding-bottom: 30px; }
 
-	#me i { font-size: 150px; }
+	#social i { font-size: 30px; }
 
-	#work { padding-top: 120px; padding-bottom: 80px; }
+	.copyr { font-size: 10px; }	
 
-	#social i { font-size: 110px; }
+	.work-image { width: 75%; height: 75%; }
 
-	.copyr { font-size: 30px; }	
+	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
 
-	.work-image { width: 85%; height: 85%; }
-
-	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
-
-	footer { padding-top: 100px; padding-bottom: 100px; }
+    footer { padding-top: 40px; padding-bottom: 30px; }
 }
 
 
@@ -498,7 +482,7 @@ iPad 3
 
 
 
-@media only screen  and (min-width : 850px)  {
+@media only screen and (min-width : 850px)  {
 
 	* { color: green; }
 
@@ -605,7 +589,61 @@ iPad 3
 
 @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
-}
+
+/* iPhone X ------- */
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) {
+
+    .logo { width: 100px; height: 100px; }
+
+    .hi { font-size: 70px; line-height: 1.5; }
+
+	h1 { font-size: 60px; }
+    
+    .title-sub { font-size: 50px; }
+
+    .learn-more a { font-size: 35px; }
+
+	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
+
+	p.quest { margin-bottom: 50px; }
+
+	p.line { line-height: 1; }
+
+	p.descr { padding-bottom: 40px; }
+
+	.section-title { font-size: 80px; }
+
+	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
+
+	.exp-block { margin-bottom: 100px; }
+
+	.work-block {margin-bottom: 100px;}
+
+	.boldBlk { font-size: 70px; }
+
+    .accepting { font-size: 40px; }
+
+    #me { padding-top: 160px; margin-bottom: 100px; }
+
+	#me i { font-size: 150px; }
+
+	#work { padding-top: 120px; padding-bottom: 80px; }
+
+	#social i { font-size: 110px; }
+
+	.copyr { font-size: 30px; }	
+
+	.work-image { width: 85%; height: 85%; }
+
+	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
+
+	footer { padding-top: 100px; padding-bottom: 100px; }
+         
+
+     }
 
 /* Samsung Galaxy S3 ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
