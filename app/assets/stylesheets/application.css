@@ -34,7 +34,7 @@
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; }
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 24px; }
 
@@ -76,7 +76,7 @@
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; }
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 24px; }
 
@@ -119,7 +119,7 @@
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; }
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 24px; }
 
@@ -152,7 +152,7 @@
 
 	p { font-size: 17px; }
 
-	.exp-stat { font-size: 20px; }
+	.exp-stat { font-size: 20px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -180,7 +180,7 @@
 
 	p { font-size: 17px; }
 
-	.exp-stat { font-size: 20px; }
+	.exp-stat { font-size: 20px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -212,7 +212,7 @@
 
 	p { font-size: 14px; }
 
-	.exp-stat { font-size: 18px; }
+	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -244,7 +244,7 @@
 
 	p { font-size: 14px; }
 
-	.exp-stat { font-size: 18px; }
+	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -273,7 +273,7 @@
 
 	p { font-size: 17px; }
 
-	.exp-stat { font-size: 18px; }
+	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -302,7 +302,7 @@ iPad 3
 
 	p { font-size: 17px; }
 
-	.exp-stat { font-size: 18px; }
+	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -329,7 +329,7 @@ iPad 3
 
 	p { font-size: 17px; }
 
-	.exp-stat { font-size: 18px; }
+	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 23px; }
 
@@ -366,7 +366,7 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; }
+	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 24px; }
 
@@ -405,7 +405,7 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 19px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 25px; }
 
@@ -439,7 +439,7 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 19px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 32px; }
 
@@ -472,7 +472,7 @@ iPad 3
 
 	p { font-size: 16px; }
 
-	.exp-stat { font-size: 19px; }
+	.exp-stat { font-size: 19px; margin-top: 25px; margin-bottom: 60px; }
 
 	.boldBlk { font-size: 35px; }
 
@@ -504,7 +504,9 @@ iPad 3
 
 	p { font-size: 14px; }
 
-	.exp-stat { font-size: 18px; }
+	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
+
+
 
 	.boldBlk { font-size: 35px; }
 
@@ -612,7 +614,9 @@ iPad 3
 
 	.section-title { font-size: 70px; }
 
-	.exp-stat { font-size: 40px; }
+	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 100px;}
+
+	.exp-block { margin-bottom: 50px; }
 
 	.boldBlk { font-size: 60px; }
 
@@ -768,10 +772,6 @@ body {
 		color: #FED766;
 	}
 
-	.exp-stat {
-		margin-top: 25px;
-		margin-bottom: 60px;
-	}
 
 	.text-detail {
 		color: #93a4aa;
