@@ -18,128 +18,152 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    .hi { font-size: 17px; line-height: 1.5; }
+    .logo { width: 100px; height: 100px; }
 
-	h1 { font-size: 20px; }
+    .hi { font-size: 70px; line-height: 1.5; }
+
+	h1 { font-size: 60px; }
     
-    .title-sub { font-size: 19px; }
+    .title-sub { font-size: 50px; }
 
-    .learn-more a { font-size: 10px; }
+    .learn-more a { font-size: 35px; }
 
-	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 20px; }
+	p.quest { margin-bottom: 50px; }
 
 	p.line { line-height: 1; }
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
+	.section-title { font-size: 80px; }
 
-	.boldBlk { font-size: 24px; }
+	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
 
-    .accepting { font-size: 14px; }
+	.exp-block { margin-bottom: 100px; }
 
-    #me { padding-top: 40px; margin-bottom: 30px; }
+	.work-block {margin-bottom: 100px;}
 
-	#me i { font-size: 40px; }
+	.boldBlk { font-size: 70px; }
 
-	#work { padding-top: 30px; padding-bottom: 30px; }
+    .accepting { font-size: 40px; }
 
-	#social i { font-size: 30px; }
+    #me { padding-top: 160px; margin-bottom: 100px; }
 
-	.copyr { font-size: 10px; }	
+	#me i { font-size: 150px; }
 
-	.work-image { width: 75%; height: 75%; }
+	#work { padding-top: 120px; padding-bottom: 80px; }
 
-	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+	#social i { font-size: 110px; }
 
-	footer { padding-top: 40px; padding-bottom: 30px; }
+	.copyr { font-size: 30px; }	
+
+	.work-image { width: 85%; height: 85%; }
+
+	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
+
+	footer { padding-top: 100px; padding-bottom: 100px; }
 }
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
     
-    .hi { font-size: 17px; line-height: 1.5; }
+    .logo { width: 100px; height: 100px; }
 
-	h1 { font-size: 20px; }
+    .hi { font-size: 70px; line-height: 1.5; }
+
+	h1 { font-size: 60px; }
     
-    .title-sub { font-size: 19px; }
+    .title-sub { font-size: 50px; }
 
-    .learn-more a { font-size: 10px; }
+    .learn-more a { font-size: 35px; }
 
-	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 20px; }
+	p.quest { margin-bottom: 50px; }
 
 	p.line { line-height: 1; }
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
+	.section-title { font-size: 80px; }
 
-	.boldBlk { font-size: 24px; }
+	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
 
-    .accepting { font-size: 14px; }
+	.exp-block { margin-bottom: 100px; }
 
-    #me { padding-top: 40px; margin-bottom: 30px; }
+	.work-block {margin-bottom: 100px;}
 
-	#me i { font-size: 40px; }
+	.boldBlk { font-size: 70px; }
 
-	#work { padding-top: 30px; padding-bottom: 30px; }
+    .accepting { font-size: 40px; }
 
-	#social i { font-size: 30px; }
+    #me { padding-top: 160px; margin-bottom: 100px; }
 
-	.copyr { font-size: 10px; }	
+	#me i { font-size: 150px; }
 
-	.work-image { width: 75%; height: 75%; }
+	#work { padding-top: 120px; padding-bottom: 80px; }
 
-	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+	#social i { font-size: 110px; }
 
-	footer { padding-top: 40px; padding-bottom: 30px; }	
+	.copyr { font-size: 30px; }	
+
+	.work-image { width: 85%; height: 85%; }
+
+	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
+
+	footer { padding-top: 100px; padding-bottom: 100px; }
 
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
     
-    .hi { font-size: 17px; line-height: 1.5; }
+    .logo { width: 100px; height: 100px; }
 
-	h1 { font-size: 20px; }
+    .hi { font-size: 70px; line-height: 1.5; }
+
+	h1 { font-size: 60px; }
     
-    .title-sub { font-size: 19px; }
+    .title-sub { font-size: 50px; }
 
-    .learn-more a { font-size: 10px; }
+    .learn-more a { font-size: 35px; }
 
-	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 20px; }
+	p.quest { margin-bottom: 50px; }
 
 	p.line { line-height: 1; }
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
+	.section-title { font-size: 80px; }
 
-	.boldBlk { font-size: 24px; }
+	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
 
-    .accepting { font-size: 14px; }
+	.exp-block { margin-bottom: 100px; }
 
-    #me { padding-top: 40px; margin-bottom: 30px; }
+	.work-block {margin-bottom: 100px;}
 
-	#me i { font-size: 40px; }
+	.boldBlk { font-size: 70px; }
 
-	#work { padding-top: 30px; padding-bottom: 30px; }
+    .accepting { font-size: 40px; }
 
-	#social i { font-size: 30px; }
+    #me { padding-top: 160px; margin-bottom: 100px; }
 
-	.copyr { font-size: 10px; }	
+	#me i { font-size: 150px; }
 
-	.work-image { width: 75%; height: 75%; }
+	#work { padding-top: 120px; padding-bottom: 80px; }
 
-	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+	#social i { font-size: 110px; }
 
-	footer { padding-top: 40px; padding-bottom: 30px; }		
+	.copyr { font-size: 30px; }	
+
+	.work-image { width: 85%; height: 85%; }
+
+	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
+
+	footer { padding-top: 100px; padding-bottom: 100px; }		
 
 }
 
@@ -350,43 +374,51 @@ iPad 3
 
 @media only screen  and (min-width : 300px)  {
 
-	.hi { font-size: 17px; line-height: 1.5; }
+	.logo { width: 100px; height: 100px; }
 
-	h1 { font-size: 20px; }
+    .hi { font-size: 70px; line-height: 1.5; }
+
+	h1 { font-size: 60px; }
     
-    .title-sub { font-size: 19px; }
+    .title-sub { font-size: 50px; }
 
-    .learn-more a { font-size: 10px; }
+    .learn-more a { font-size: 35px; }
 
-	p { font-size: 14px; width:75%; margin: auto; line-height: 1.7; }
+	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
 
-	p.quest { margin-bottom: 20px; }
+	p.quest { margin-bottom: 50px; }
 
 	p.line { line-height: 1; }
 
 	p.descr { padding-bottom: 40px; }
 
-	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 60px; }
+	.section-title { font-size: 80px; }
 
-	.boldBlk { font-size: 24px; }
+	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
 
-    .accepting { font-size: 14px; }
+	.exp-block { margin-bottom: 100px; }
 
-    #me { padding-top: 40px; margin-bottom: 30px; }
+	.work-block {margin-bottom: 100px;}
 
-	#me i { font-size: 40px; }
+	.boldBlk { font-size: 70px; }
 
-	#work { padding-top: 30px; padding-bottom: 30px; }
+    .accepting { font-size: 40px; }
 
-	#social i { font-size: 30px; }
+    #me { padding-top: 160px; margin-bottom: 100px; }
 
-	.copyr { font-size: 10px; }	
+	#me i { font-size: 150px; }
 
-	.work-image { width: 75%; height: 75%; }
+	#work { padding-top: 120px; padding-bottom: 80px; }
 
-	#sub-footer { padding-top: 40px; padding-bottom: 40px; }
+	#social i { font-size: 110px; }
 
-	footer { padding-top: 40px; padding-bottom: 30px; }
+	.copyr { font-size: 30px; }	
+
+	.work-image { width: 85%; height: 85%; }
+
+	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
+
+	footer { padding-top: 100px; padding-bottom: 100px; }
 }
 
 
@@ -594,56 +626,6 @@ iPad 3
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
 /* Styles */
 }
-
-
-@media only screen and (min-device-width : 375px) {
-	.logo { width: 100px; height: 100px; }
-
-    .hi { font-size: 70px; line-height: 1.5; }
-
-	h1 { font-size: 60px; }
-    
-    .title-sub { font-size: 50px; }
-
-    .learn-more a { font-size: 35px; }
-
-	p { font-size: 40px; width:100%; margin: auto; line-height: 1.7; }
-
-	p.quest { margin-bottom: 50px; }
-
-	p.line { line-height: 1; }
-
-	p.descr { padding-bottom: 40px; }
-
-	.section-title { font-size: 80px; }
-
-	.exp-stat { font-size: 40px; margin-top: 25px; margin-bottom: 120px;}
-
-	.exp-block { margin-bottom: 100px; }
-
-	.work-block {margin-bottom: 100px;}
-
-	.boldBlk { font-size: 70px; }
-
-    .accepting { font-size: 40px; }
-
-    #me { padding-top: 160px; margin-bottom: 100px; }
-
-	#me i { font-size: 150px; }
-
-	#work { padding-top: 120px; padding-bottom: 100px; }
-
-	#social i { font-size: 110px; }
-
-	.copyr { font-size: 30px; }	
-
-	.work-image { width: 85%; height: 85%; }
-
-	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
-
-	footer { padding-top: 100px; padding-bottom: 100px; }
-}
-
 
 
 
