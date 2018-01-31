@@ -60,7 +60,7 @@
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
     
-    .hi { font-size: 17px; line-height: 1.5; }
+    .hi { font-size: 50px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -103,7 +103,7 @@
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
     
-    .hi { font-size: 17px; line-height: 1.5; }
+    .hi { font-size: 50px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
@@ -350,7 +350,7 @@ iPad 3
 
 @media only screen  and (min-width : 300px)  {
 
-	.hi { font-size: 17px; line-height: 1.5; }
+	.hi { font-size: 50px; line-height: 1.5; }
 
 	h1 { font-size: 20px; }
     
