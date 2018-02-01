@@ -727,194 +727,198 @@ body {
 	 	text-align: center;
 	 }
 
-	 h1 {
-		text-align: center;
-	}
+.container {
+	padding: 0;
+}	 
 
-    
-	.intro {
-		height: 100vh;
-		width: 100vw;
-		position: relative;
-		padding-top: 35px;
-		background-size: cover;
-        background-position: center center;
-        background-repeat: no-repeat;
-        display: table-cell;
-		vertical-align: middle;
-	}
-
-	.intro-text {
-
-	}
-    
-    #prim-logo {
-    	position: absolute;
-    	top: 2.5%;
-    	left: 50%;
-    	z-index: 20;
-    }
-
-	.blk-bg {
-		position: absolute;
-		top: 0;
-		left: 0;
-		background-color: rgba(0,0,0,0.5);
-		z-index: 0;
-		height: 100vh;
-		width: 100%;
-	}
-
-	.intro-text {
-		position: relative;
-		z-index: 10;
-	}
-
-	#work {
-		background-color: #eee;
-	}
-
-	#me {
-		height: auto;
-		text-align: center;
-	}
-
-	.exp-stat {
-		color: #524e4d;
-		font-weight: 300;
-	}
-	#sub-footer {
-		background-color: #FED766;
-		color: #252a30;
-		height: auto;
-	}
-
-	footer {
-		background-color: #252a30;
-		height: auto;
-	}
-
-	footer p {
-		color: #93a4aa;
-	}
-
-	p {
-	    display: inline-block;
-	    float: none;
-	    font-weight: 300;
-	}
-
-	div#learn-links div, div p {
-		display: block;
-	}
-
-	.title-sub {
-		font-weight: 700;
-	}
-
-	.section-title {
-		font-weight: 700;
-	}
-
-	img {
-		margin-left: auto;
-		margin-right: auto;
-		display: block;
-	}
-
-	.upc {
-		text-transform: uppercase;
-	}
-
-	.boldBlk {
-		font-weight: bold;
-		color: black;
-	}
-
-	.work-image {
-		margin-top: 20px;
-		margin-bottom: 20px;
-		transition: all .3s ease-in-out;
-	}
-
-	.work-image:hover {
-		border-radius: 40px;
-	}
-
-	.primary-logo img {
-		position: relative;
-		top: 7%;
-	}
-
-	.hi {
-		color: rgba(242,242,242,1);
-		padding-bottom: 40px;
-		font-weight: 700;
-	}
-
-	.acc-cont {
-		width: 75%;
-		margin: auto;
-	}
-
-	.email {
-		color: #5EA4F7;
-	}
-
-	#lm1 {
-		padding-top: 30px;
-		padding-bottom: 60px;
-	}
-
-	.yellow {
-		color: #FED766;
-	}
+h1 {
+	text-align: center;
+}
 
 
-	.text-detail {
-		color: #93a4aa;
-	}
+.intro {
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+	padding-top: 35px;
+	background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: table-cell;
+	vertical-align: middle;
+}
 
-	.copyr {
-		margin-top: 30px;
-	}
+.intro-text {
 
-	.social-links {
-		margin-top: 20px;
-	}
+}
 
-	a.learn {
-		color: rgba(255,255,255,0.9);
-		text-decoration: none;
-	}
+#prim-logo {
+	position: absolute;
+	top: 2.5%;
+	left: 50%;
+	z-index: 20;
+}
 
-	.button {
-		transition: all .3s ease-in-out;
-		border-radius: 50px;
-		text-decoration: none;
-		cursor: pointer;
-		letter-spacing: 0;
-	}
+.blk-bg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 0;
+	height: 100vh;
+	width: 100%;
+}
 
-	.button-hire {
-		color:#fff;
-		border: 2px solid #FED766;
-		background-color: transparent;
-		padding: 1.4em 1.5em;
-		font-weight: 700;
-		text-decoration: none;
-	}
+.intro-text {
+	position: relative;
+	z-index: 10;
+}
 
-	.button-hire:hover {
-	    color:#252a30;
-	    border:2px solid #FED766;
-        background-color:#FED766;
-        padding:1.4em 2em;
-        text-decoration: none;
-	}
+#work {
+	background-color: #eee;
+}
 
-	.accepting {
-		font-weight: 300;
-	}
+#me {
+	height: auto;
+	text-align: center;
+}
 
-    #social i { margin-left: 3px; }
+.exp-stat {
+	color: #524e4d;
+	font-weight: 300;
+}
+#sub-footer {
+	background-color: #FED766;
+	color: #252a30;
+	height: auto;
+}
+
+footer {
+	background-color: #252a30;
+	height: auto;
+}
+
+footer p {
+	color: #93a4aa;
+}
+
+p {
+    display: inline-block;
+    float: none;
+    font-weight: 300;
+}
+
+div#learn-links div, div p {
+	display: block;
+}
+
+.title-sub {
+	font-weight: 700;
+}
+
+.section-title {
+	font-weight: 700;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.upc {
+	text-transform: uppercase;
+}
+
+.boldBlk {
+	font-weight: bold;
+	color: black;
+}
+
+.work-image {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	transition: all .3s ease-in-out;
+}
+
+.work-image:hover {
+	border-radius: 40px;
+}
+
+.primary-logo img {
+	position: relative;
+	top: 7%;
+}
+
+.hi {
+	color: rgba(242,242,242,1);
+	padding-bottom: 40px;
+	font-weight: 700;
+}
+
+.acc-cont {
+	width: 75%;
+	margin: auto;
+}
+
+.email {
+	color: #5EA4F7;
+}
+
+#lm1 {
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+
+.yellow {
+	color: #FED766;
+}
+
+
+.text-detail {
+	color: #93a4aa;
+}
+
+.copyr {
+	margin-top: 30px;
+}
+
+.social-links {
+	margin-top: 20px;
+}
+
+a.learn {
+	color: rgba(255,255,255,0.9);
+	text-decoration: none;
+}
+
+.button {
+	transition: all .3s ease-in-out;
+	border-radius: 50px;
+	text-decoration: none;
+	cursor: pointer;
+	letter-spacing: 0;
+}
+
+.button-hire {
+	color:#fff;
+	border: 2px solid #FED766;
+	background-color: transparent;
+	padding: 1.4em 1.5em;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.button-hire:hover {
+    color:#252a30;
+    border:2px solid #FED766;
+    background-color:#FED766;
+    padding:1.4em 2em;
+    text-decoration: none;
+}
+
+.accepting {
+	font-weight: 300;
+}
+
+#social i { margin-left: 3px; }
