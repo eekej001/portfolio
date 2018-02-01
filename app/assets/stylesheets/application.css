@@ -18,7 +18,7 @@
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-	.logo { width: 100px; height: 100px; }
+	.logo { width: 40px; height: 40px; }
 
     .hi { font-size: 17px; line-height: 1.5; padding-top: 90px; }
 
@@ -36,7 +36,7 @@
 
 	p.descr { padding-bottom: 40px; }
 
-	.section-title { font-size: 80px; }
+	.section-title { font-size: 24px; }
 
 	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
@@ -64,7 +64,7 @@
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
     
-    .logo { width: 100px; height: 100px; }
+    .logo { width: 40px; height: 40px; }
 
     .hi { font-size: 17px; line-height: 1.5; padding-top: 90px; }
 
@@ -82,7 +82,7 @@
 
 	p.descr { padding-bottom: 40px; }
 
-	.section-title { font-size: 80px; }
+	.section-title { font-size: 24px; }
 
 	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
@@ -111,7 +111,7 @@
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
     
-    .logo { width: 100px; height: 100px; }
+    .logo { width: 40px; height: 40px; }
 
     .hi { font-size: 17px; line-height: 1.5; padding-top: 90px; }
 
@@ -129,7 +129,7 @@
 
 	p.descr { padding-bottom: 40px; }
 
-	.section-title { font-size: 80px; }
+	.section-title { font-size: 24px; }
 
 	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
@@ -157,6 +157,8 @@
 
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+	.logo { width: 50px; height: 50px; }
 
     .hi { font-size: 52px; padding-top: 90px; }
     
@@ -186,6 +188,8 @@
 /* iPads (landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 
+	.logo { width: 50px; height: 50px; }
+
     .hi { font-size: 52px; padding-top: 90px; }
     
     .title-sub, .learn-more a { font-size: 35px; }
@@ -213,6 +217,8 @@
 
 
 @media only screen and (min-device-width : 600px) {
+
+	.logo { width: 50px; height: 50px; }
 
 	body { line-height: 1.7; }
 
@@ -245,6 +251,8 @@
 
 
 @media only screen and (min-device-width : 400px) {
+
+	.logo { width: 45px; height: 45px; }
 
 	body { line-height: 1.7; }
 
@@ -279,6 +287,8 @@
 /* iPads (portrait) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
     
+    .logo { width: 50px; height: 50px; }
+
     .hi { font-size: 52px; padding-top: 90px; }
     
     .title-sub, .learn-more a { font-size: 35px; }
@@ -308,6 +318,8 @@ iPad 3
 **********/
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
     
+    .logo { width: 50px; height: 50px; }
+
     .hi { font-size: 52px; padding-top: 90px; }
     
     .title-sub, .learn-more a { font-size: 35px; }
@@ -334,6 +346,8 @@ iPad 3
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+
+    .logo { width: 50px; height: 50px; }
 
     .hi { font-size: 52px; padding-top: 90px; }
     
@@ -362,7 +376,7 @@ iPad 3
 
 @media only screen and (min-width : 300px)  {
 
-	.logo { width: 100px; height: 100px; }
+	.logo { width: 40px; height: 40px; }
 
     .hi { font-size: 17px; line-height: 1.5; padding-top: 90px; }
 
@@ -380,7 +394,7 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.section-title { font-size: 80px; }
+	.section-title { font-size: 24px; }
 
 	.exp-stat { font-size: 17px; margin-top: 25px; margin-bottom: 120px; }
 
@@ -408,6 +422,8 @@ iPad 3
 
 
 @media only screen and (min-width : 420px)  {
+
+	.logo { width: 45px; height: 45px; }
 
 	.hi { font-size: 24px; padding-top: 90px; }
 
@@ -445,6 +461,8 @@ iPad 3
 
 @media only screen and (min-width : 600px)  {
 
+	.logo { width: 50px; height: 50px; }
+
 	.hi { font-size: 35px; padding-top: 90px; }
     
     .title-sub { font-size: 30px; }
@@ -479,6 +497,8 @@ iPad 3
 
 
 @media only screen and (min-width : 850px)  {
+
+	.logo { width: 55px; height: 55px; }
 
 	.hi { font-size: 45px; padding-top: 90px; }
     
