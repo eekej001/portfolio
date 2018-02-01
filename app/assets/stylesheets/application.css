@@ -524,7 +524,7 @@ iPad 3
 
 	.exp-stat { font-size: 18px; margin-top: 25px; margin-bottom: 60px; }
 
-    .section-title { font-size: 45px; }
+    .section-title { font-size: 35px; }
 
 	.boldBlk { font-size: 35px; }
 
@@ -750,7 +750,9 @@ body {
     
     #prim-logo {
     	position: absolute;
-    	top: 5%;
+    	top: 2.5%;
+    	left: 50%;
+    	z-index: 20;
     }
 
 	.blk-bg {
@@ -776,6 +778,11 @@ body {
 		height: auto;
 		text-align: center;
 	}
+
+	.exp-stat {
+		color: #524e4d;
+		font-weight: 300;
+	}
 	#sub-footer {
 		background-color: #FED766;
 		color: #252a30;
@@ -794,6 +801,7 @@ body {
 	p {
 	    display: inline-block;
 	    float: none;
+	    font-weight: 300;
 	}
 
 	div#learn-links div, div p {
@@ -903,6 +911,10 @@ body {
         background-color:#FED766;
         padding:1.4em 2em;
         text-decoration: none;
+	}
+
+	.accepting {
+		font-weight: 300;
 	}
 
     #social i { margin-left: 3px; }
