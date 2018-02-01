@@ -747,7 +747,11 @@ body {
 	.intro-text {
 
 	}
-
+    
+    #prim-logo {
+    	position: absolute;
+    	top: 5%;
+    }
 
 	.blk-bg {
 		position: absolute;
