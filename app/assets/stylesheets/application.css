@@ -740,6 +740,12 @@ body {
 		background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
+        display: block;
+	}
+
+	.intro-text {
+		display: table-cell;
+		vertical-align: middle;
 	}
 
 
