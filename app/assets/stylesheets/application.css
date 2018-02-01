@@ -757,6 +757,8 @@ h1 {
 	top: 2.5%;
 	left: 50%;
 	z-index: 20;
+	-webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
 
 .blk-bg {
