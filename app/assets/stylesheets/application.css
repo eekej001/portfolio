@@ -656,7 +656,7 @@ iPad 3
 
     .learn-more a { font-size: 15px; }
 
-	p { font-size: 25px; width:100%; margin: auto; line-height: 1.7; }
+	p { font-size: 22px; width:90%; margin: auto; line-height: 1.7; }
 
 	p.quest { margin-bottom: 50px; }
 
@@ -664,9 +664,9 @@ iPad 3
 
 	p.descr { padding-bottom: 40px; }
 
-	.section-title { font-size: 60px; }
+	.section-title { font-size: 55px; }
 
-	.exp-stat { font-size: 30px; margin-top: 25px; margin-bottom: 120px;}
+	.exp-stat { font-size: 25px; margin-top: 25px; margin-bottom: 120px;}
 
 	.exp-block { margin-bottom: 100px; }
 
@@ -676,21 +676,21 @@ iPad 3
 
     .accepting { font-size: 22px; }
 
-    #me { padding-top: 160px; margin-bottom: 80px; }
+    #me { padding-top: 160px; margin-bottom: 40px; }
 
 	#me i { font-size: 120px; }
 
-	#work { padding-top: 120px; padding-bottom: 60px; }
+	#work { padding-top: 120px; padding-bottom: 30px; }
 
 	#social i { font-size: 70px; }
 
 	.copyr { font-size: 15px; }	
 
-	.work-image { width: 80%; height: 80%; }
+	.work-image { width: 75%; height: 75%; }
 
-	#sub-footer { padding-top: 100px; padding-bottom: 100px; }
+	#sub-footer { padding-top: 90px; padding-bottom: 90px; }
 
-	footer { padding-top: 100px; padding-bottom: 70px; }      
+	footer { padding-top: 50px; padding-bottom: 35px; }      
 
  }
 
